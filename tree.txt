@@ -1,0 +1,2721 @@
+Air Pressure <= 662.5
+|   Relative Humidity <= 15.23: VeryGood (500.0)
+|   Relative Humidity > 15.23
+|   |   Hour <= 17
+|   |   |   Temperature <= 6.92
+|   |   |   |   Month = January: Moderate (0.0)
+|   |   |   |   Month = February: Moderate (0.0)
+|   |   |   |   Month = March: Moderate (0.0)
+|   |   |   |   Month = April
+|   |   |   |   |   Hour <= 9: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   Hour > 9: Moderate (7.0)
+|   |   |   |   Month = May: Moderate (0.0)
+|   |   |   |   Month = June: Moderate (0.0)
+|   |   |   |   Month = July: Moderate (0.0)
+|   |   |   |   Month = August: Moderate (0.0)
+|   |   |   |   Month = September: Moderate (0.0)
+|   |   |   |   Month = October: Moderate (0.0)
+|   |   |   |   Month = November: Moderate (0.0)
+|   |   |   |   Month = December: VeryGood (2.0)
+|   |   |   Temperature > 6.92
+|   |   |   |   Relative Humidity <= 58.74: VeryGood (406.0/20.0)
+|   |   |   |   Relative Humidity > 58.74
+|   |   |   |   |   Month = January: VeryGood (0.0)
+|   |   |   |   |   Month = February: VeryGood (0.0)
+|   |   |   |   |   Month = March: VeryGood (0.0)
+|   |   |   |   |   Month = April: VeryGood (0.0)
+|   |   |   |   |   Month = May: VeryGood (0.0)
+|   |   |   |   |   Month = June: VeryGood (0.0)
+|   |   |   |   |   Month = July
+|   |   |   |   |   |   Hour <= 4: VeryGood (43.0/4.0)
+|   |   |   |   |   |   Hour > 4
+|   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   Relative Humidity <= 59: Moderate (7.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 59
+|   |   |   |   |   |   |   |   |   Location = Pathumthani: VeryGood (15.0/6.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   |   |   |   Hour <= 6: VeryGood (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 6: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   Location = Tak: Moderate (9.0/3.0)
+|   |   |   |   |   |   |   Hour > 8: VeryGood (23.0/1.0)
+|   |   |   |   |   Month = August
+|   |   |   |   |   |   Hour <= 14: VeryGood (134.0/22.0)
+|   |   |   |   |   |   Hour > 14
+|   |   |   |   |   |   |   Relative Humidity <= 64.03
+|   |   |   |   |   |   |   |   Temperature <= 34.31
+|   |   |   |   |   |   |   |   |   Air Pressure <= 252.7: Moderate (7.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 252.7
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 252.8: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 252.8: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 34.31: VeryGood (3.0)
+|   |   |   |   |   |   |   Relative Humidity > 64.03: VeryGood (6.0)
+|   |   |   |   |   Month = September: UnhealthyForSensitive (1.0)
+|   |   |   |   |   Month = October: VeryGood (0.0)
+|   |   |   |   |   Month = November: VeryGood (0.0)
+|   |   |   |   |   Month = December: VeryGood (0.0)
+|   |   Hour > 17
+|   |   |   Month = January: VeryGood (0.0)
+|   |   |   Month = February: Unhealthy (2.0)
+|   |   |   Month = March: VeryGood (0.0)
+|   |   |   Month = April: VeryGood (0.0)
+|   |   |   Month = May: VeryGood (0.0)
+|   |   |   Month = June: VeryGood (0.0)
+|   |   |   Month = July
+|   |   |   |   Location = Pathumthani: VeryGood (23.0/9.0)
+|   |   |   |   Location = ChiangRai: VeryGood (27.0/12.0)
+|   |   |   |   Location = Tak
+|   |   |   |   |   Hour <= 18: VeryGood (3.0)
+|   |   |   |   |   Hour > 18: Moderate (21.0/6.0)
+|   |   |   Month = August
+|   |   |   |   Temperature <= 29.11: VeryGood (60.0/7.0)
+|   |   |   |   Temperature > 29.11
+|   |   |   |   |   Relative Humidity <= 65.68: Moderate (9.0)
+|   |   |   |   |   Relative Humidity > 65.68
+|   |   |   |   |   |   Relative Humidity <= 76.24
+|   |   |   |   |   |   |   Air Pressure <= 253.23: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 253.23: Moderate (9.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 76.24: VeryGood (3.0)
+|   |   |   Month = September
+|   |   |   |   Temperature <= 8.21: VeryGood (27.0)
+|   |   |   |   Temperature > 8.21
+|   |   |   |   |   Air Pressure <= 251.36: Moderate (5.0)
+|   |   |   |   |   Air Pressure > 251.36: VeryGood (14.0/6.0)
+|   |   |   Month = October: VeryGood (0.0)
+|   |   |   Month = November
+|   |   |   |   Air Pressure <= 252.44
+|   |   |   |   |   Relative Humidity <= 17.52: VeryGood (3.0/1.0)
+|   |   |   |   |   Relative Humidity > 17.52: Moderate (4.0)
+|   |   |   |   Air Pressure > 252.44: VeryGood (4.0)
+|   |   |   Month = December: Moderate (12.0/3.0)
+Air Pressure > 662.5
+|   Month = January
+|   |   Hour <= 9
+|   |   |   Temperature <= 29.54
+|   |   |   |   Air Pressure <= 1007.42
+|   |   |   |   |   Relative Humidity <= 69.35: UnhealthyForSensitive (3.0)
+|   |   |   |   |   Relative Humidity > 69.35: Moderate (12.0/2.0)
+|   |   |   |   Air Pressure > 1007.42
+|   |   |   |   |   Relative Humidity <= 57.72
+|   |   |   |   |   |   Air Pressure <= 1016
+|   |   |   |   |   |   |   Relative Humidity <= 54.59: UnhealthyForSensitive (17.0/3.0)
+|   |   |   |   |   |   |   Relative Humidity > 54.59: Unhealthy (23.0/7.0)
+|   |   |   |   |   |   Air Pressure > 1016
+|   |   |   |   |   |   |   Temperature <= 27.37: Moderate (2.0)
+|   |   |   |   |   |   |   Temperature > 27.37
+|   |   |   |   |   |   |   |   Relative Humidity <= 55.25: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 55.25: Unhealthy (3.0/1.0)
+|   |   |   |   |   Relative Humidity > 57.72
+|   |   |   |   |   |   Relative Humidity <= 68.07
+|   |   |   |   |   |   |   Hour <= 5: UnhealthyForSensitive (27.0/2.0)
+|   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   Relative Humidity <= 60.49
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1013.27
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.84: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.84: Unhealthy (4.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1013.27
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 58.98
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1013.95: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1013.95: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 58.98: Moderate (2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 60.49: UnhealthyForSensitive (18.0/2.0)
+|   |   |   |   |   |   Relative Humidity > 68.07
+|   |   |   |   |   |   |   Temperature <= 28.43
+|   |   |   |   |   |   |   |   Air Pressure <= 1009.69
+|   |   |   |   |   |   |   |   |   Hour <= 6: UnhealthyForSensitive (13.0)
+|   |   |   |   |   |   |   |   |   Hour > 6
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1008.87: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1008.87: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1009.69: Moderate (4.0/2.0)
+|   |   |   |   |   |   |   Temperature > 28.43
+|   |   |   |   |   |   |   |   Hour <= 2: Moderate (7.0)
+|   |   |   |   |   |   |   |   Hour > 2
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 75.8
+|   |   |   |   |   |   |   |   |   |   Hour <= 6: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 6
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 70.64: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 70.64: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 75.8: Moderate (2.0)
+|   |   |   Temperature > 29.54
+|   |   |   |   Relative Humidity <= 64
+|   |   |   |   |   Air Pressure <= 1013.75
+|   |   |   |   |   |   Relative Humidity <= 58.69
+|   |   |   |   |   |   |   Air Pressure <= 1011.64: Unhealthy (15.0)
+|   |   |   |   |   |   |   Air Pressure > 1011.64
+|   |   |   |   |   |   |   |   Relative Humidity <= 56.96
+|   |   |   |   |   |   |   |   |   Temperature <= 30.47: UnhealthyForSensitive (11.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 30.47: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 56.96: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 58.69
+|   |   |   |   |   |   |   Temperature <= 30.9: UnhealthyForSensitive (33.0/3.0)
+|   |   |   |   |   |   |   Temperature > 30.9
+|   |   |   |   |   |   |   |   Air Pressure <= 1010.77: Unhealthy (4.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1010.77: UnhealthyForSensitive (2.0)
+|   |   |   |   |   Air Pressure > 1013.75
+|   |   |   |   |   |   Temperature <= 29.73: Unhealthy (4.0)
+|   |   |   |   |   |   Temperature > 29.73
+|   |   |   |   |   |   |   Air Pressure <= 1016.27
+|   |   |   |   |   |   |   |   Air Pressure <= 1014.13: Moderate (3.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1014.13: UnhealthyForSensitive (15.0/3.0)
+|   |   |   |   |   |   |   Air Pressure > 1016.27: Moderate (4.0)
+|   |   |   |   Relative Humidity > 64
+|   |   |   |   |   Temperature <= 29.77: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   Temperature > 29.77: Unhealthy (42.0)
+|   |   Hour > 9
+|   |   |   Hour <= 20
+|   |   |   |   Relative Humidity <= 65.64
+|   |   |   |   |   Hour <= 12
+|   |   |   |   |   |   Temperature <= 27.81
+|   |   |   |   |   |   |   Relative Humidity <= 55.81: Moderate (8.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 55.81
+|   |   |   |   |   |   |   |   Temperature <= 26.56: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 26.56
+|   |   |   |   |   |   |   |   |   Temperature <= 27.55: UnhealthyForSensitive (10.0)
+|   |   |   |   |   |   |   |   |   Temperature > 27.55
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.46: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.46: Moderate (2.0)
+|   |   |   |   |   |   Temperature > 27.81
+|   |   |   |   |   |   |   Relative Humidity <= 56.63
+|   |   |   |   |   |   |   |   Temperature <= 28.12: Moderate (2.0)
+|   |   |   |   |   |   |   |   Temperature > 28.12
+|   |   |   |   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1013.89: Unhealthy (5.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1013.89: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 11: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 56.63
+|   |   |   |   |   |   |   |   Air Pressure <= 1012.05
+|   |   |   |   |   |   |   |   |   Hour <= 11: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   Hour > 11: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1012.05: Moderate (22.0/1.0)
+|   |   |   |   |   Hour > 12
+|   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   Air Pressure <= 1010.57
+|   |   |   |   |   |   |   |   Relative Humidity <= 51.9: UnhealthyForSensitive (24.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 51.9
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1009.36
+|   |   |   |   |   |   |   |   |   |   Temperature <= 27.5
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 64.46: Moderate (16.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 64.46: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 27.5: UnhealthyForSensitive (37.0/12.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1009.36: Moderate (17.0)
+|   |   |   |   |   |   |   Air Pressure > 1010.57: Moderate (60.0/3.0)
+|   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   Relative Humidity <= 60.09
+|   |   |   |   |   |   |   |   Temperature <= 29.02
+|   |   |   |   |   |   |   |   |   Temperature <= 27.1
+|   |   |   |   |   |   |   |   |   |   Hour <= 19: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1012.78: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1012.78: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   Temperature > 27.1: UnhealthyForSensitive (21.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 29.02
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 50.87: UnhealthyForSensitive (5.0/2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 50.87: Moderate (9.0)
+|   |   |   |   |   |   |   Relative Humidity > 60.09: Moderate (11.0/5.0)
+|   |   |   |   Relative Humidity > 65.64
+|   |   |   |   |   Temperature <= 30.74
+|   |   |   |   |   |   Air Pressure <= 1009.04
+|   |   |   |   |   |   |   Hour <= 14
+|   |   |   |   |   |   |   |   Temperature <= 27.57: Moderate (6.0/3.0)
+|   |   |   |   |   |   |   |   Temperature > 27.57: UnhealthyForSensitive (12.0)
+|   |   |   |   |   |   |   Hour > 14
+|   |   |   |   |   |   |   |   Temperature <= 29.25: UnhealthyForSensitive (9.0)
+|   |   |   |   |   |   |   |   Temperature > 29.25: Moderate (6.0)
+|   |   |   |   |   |   Air Pressure > 1009.04
+|   |   |   |   |   |   |   Relative Humidity <= 66.78: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 66.78: Unhealthy (10.0/2.0)
+|   |   |   |   |   Temperature > 30.74
+|   |   |   |   |   |   Hour <= 15
+|   |   |   |   |   |   |   Relative Humidity <= 67.41: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   Relative Humidity > 67.41
+|   |   |   |   |   |   |   |   Hour <= 13: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 13: Unhealthy (2.0)
+|   |   |   |   |   |   Hour > 15: Unhealthy (5.0)
+|   |   |   Hour > 20
+|   |   |   |   Relative Humidity <= 53.83
+|   |   |   |   |   Air Pressure <= 1012.5: Unhealthy (11.0)
+|   |   |   |   |   Air Pressure > 1012.5
+|   |   |   |   |   |   Relative Humidity <= 52.82: UnhealthyForSensitive (9.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 52.82: Unhealthy (4.0/1.0)
+|   |   |   |   Relative Humidity > 53.83
+|   |   |   |   |   Relative Humidity <= 62.65: UnhealthyForSensitive (43.0/5.0)
+|   |   |   |   |   Relative Humidity > 62.65
+|   |   |   |   |   |   Temperature <= 30.04
+|   |   |   |   |   |   |   Temperature <= 27.56: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   Temperature > 27.56
+|   |   |   |   |   |   |   |   Temperature <= 29.35: Moderate (8.0/2.0)
+|   |   |   |   |   |   |   |   Temperature > 29.35: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   Temperature > 30.04: Unhealthy (8.0)
+|   Month = February
+|   |   Relative Humidity <= 57.03
+|   |   |   Hour <= 8
+|   |   |   |   Air Pressure <= 1003.06: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   Air Pressure > 1003.06: Unhealthy (171.0/15.0)
+|   |   |   Hour > 8
+|   |   |   |   Relative Humidity <= 51.47
+|   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   Hour <= 10: Unhealthy (18.0/4.0)
+|   |   |   |   |   |   Hour > 10
+|   |   |   |   |   |   |   Air Pressure <= 1009.68: Unhealthy (74.0/28.0)
+|   |   |   |   |   |   |   Air Pressure > 1009.68
+|   |   |   |   |   |   |   |   Air Pressure <= 1013.93
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1010.66
+|   |   |   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 46.45
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 44.43: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 44.43: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 46.45: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 18: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1010.66
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 42.63: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 42.63: UnhealthyForSensitive (34.0/5.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1013.93
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 46.65: Unhealthy (16.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 46.65: UnhealthyForSensitive (20.0/8.0)
+|   |   |   |   |   Hour > 19
+|   |   |   |   |   |   Air Pressure <= 1012.97
+|   |   |   |   |   |   |   Temperature <= 29.02: UnhealthyForSensitive (7.0/2.0)
+|   |   |   |   |   |   |   Temperature > 29.02: Unhealthy (43.0/5.0)
+|   |   |   |   |   |   Air Pressure > 1012.97: Unhealthy (30.0)
+|   |   |   |   Relative Humidity > 51.47
+|   |   |   |   |   Temperature <= 29.16
+|   |   |   |   |   |   Relative Humidity <= 53.57
+|   |   |   |   |   |   |   Hour <= 10: Unhealthy (3.0)
+|   |   |   |   |   |   |   Hour > 10
+|   |   |   |   |   |   |   |   Temperature <= 28.92
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 51.8: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 51.8: Moderate (2.0)
+|   |   |   |   |   |   |   |   Temperature > 28.92
+|   |   |   |   |   |   |   |   |   Temperature <= 28.97: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Temperature > 28.97: Moderate (2.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 53.57: Moderate (9.0/1.0)
+|   |   |   |   |   Temperature > 29.16
+|   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   Temperature <= 31.09
+|   |   |   |   |   |   |   |   Air Pressure <= 1017.04
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1012.6
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.79: Unhealthy (7.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.79: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1012.6: Unhealthy (12.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1017.04: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   Temperature > 31.09: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   Hour > 11
+|   |   |   |   |   |   |   Air Pressure <= 997.3: Unhealthy (9.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 997.3
+|   |   |   |   |   |   |   |   Hour <= 17: UnhealthyForSensitive (54.0/21.0)
+|   |   |   |   |   |   |   |   Hour > 17
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 54.33: UnhealthyForSensitive (21.0/7.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 54.33
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 55.39: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 55.39
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 20
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 19: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 19: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 20: UnhealthyForSensitive (4.0)
+|   |   Relative Humidity > 57.03
+|   |   |   Relative Humidity <= 63.01
+|   |   |   |   Air Pressure <= 1008.66: UnhealthyForSensitive (38.0/4.0)
+|   |   |   |   Air Pressure > 1008.66
+|   |   |   |   |   Temperature <= 30.64
+|   |   |   |   |   |   Relative Humidity <= 57.42: Unhealthy (4.0)
+|   |   |   |   |   |   Relative Humidity > 57.42
+|   |   |   |   |   |   |   Temperature <= 30.41: Moderate (16.0/3.0)
+|   |   |   |   |   |   |   Temperature > 30.41
+|   |   |   |   |   |   |   |   Relative Humidity <= 61.07: Moderate (8.0/2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 61.07: Unhealthy (3.0)
+|   |   |   |   |   Temperature > 30.64
+|   |   |   |   |   |   Hour <= 15
+|   |   |   |   |   |   |   Temperature <= 31.44
+|   |   |   |   |   |   |   |   Hour <= 3: UnhealthyForSensitive (8.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 3
+|   |   |   |   |   |   |   |   |   Hour <= 12: Unhealthy (23.0/6.0)
+|   |   |   |   |   |   |   |   |   Hour > 12: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   Temperature > 31.44
+|   |   |   |   |   |   |   |   Relative Humidity <= 59.07: UnhealthyForSensitive (20.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 59.07
+|   |   |   |   |   |   |   |   |   Temperature <= 32.77
+|   |   |   |   |   |   |   |   |   |   Hour <= 10
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 61.22
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.65: Moderate (9.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.65: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 61.22: UnhealthyForSensitive (8.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 10: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   Temperature > 32.77
+|   |   |   |   |   |   |   |   |   |   Hour <= 7
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.13
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.11
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1009.94: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1009.94: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.11: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 33.13: Unhealthy (5.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 7: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   Hour > 15
+|   |   |   |   |   |   |   Temperature <= 33.21
+|   |   |   |   |   |   |   |   Air Pressure <= 1011.66: Moderate (15.0/3.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1011.66: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   Temperature > 33.21: Unhealthy (8.0)
+|   |   |   Relative Humidity > 63.01
+|   |   |   |   Temperature <= 32.49: UnhealthyForSensitive (34.0)
+|   |   |   |   Temperature > 32.49
+|   |   |   |   |   Relative Humidity <= 64.36: Moderate (6.0/1.0)
+|   |   |   |   |   Relative Humidity > 64.36: UnhealthyForSensitive (6.0)
+|   Month = March
+|   |   Air Pressure <= 998.5
+|   |   |   Temperature <= 30.92
+|   |   |   |   Air Pressure <= 971.8: Moderate (10.0/1.0)
+|   |   |   |   Air Pressure > 971.8
+|   |   |   |   |   Location = Pathumthani: Unhealthy (66.0/18.0)
+|   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   Air Pressure <= 996.64: VeryUnhealthy (8.0/2.0)
+|   |   |   |   |   |   Air Pressure > 996.64: Unhealthy (4.0/1.0)
+|   |   |   |   |   Location = Tak
+|   |   |   |   |   |   Hour <= 4: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   Hour > 4: VeryUnhealthy (6.0/1.0)
+|   |   |   Temperature > 30.92
+|   |   |   |   Relative Humidity <= 50.59
+|   |   |   |   |   Hour <= 13: Unhealthy (47.0/11.0)
+|   |   |   |   |   Hour > 13
+|   |   |   |   |   |   Air Pressure <= 995.62: Unhealthy (105.0/7.0)
+|   |   |   |   |   |   Air Pressure > 995.62
+|   |   |   |   |   |   |   Temperature <= 34.76: Unhealthy (18.0/1.0)
+|   |   |   |   |   |   |   Temperature > 34.76: UnhealthyForSensitive (6.0)
+|   |   |   |   Relative Humidity > 50.59
+|   |   |   |   |   Hour <= 3
+|   |   |   |   |   |   Relative Humidity <= 64.05: Unhealthy (24.0)
+|   |   |   |   |   |   Relative Humidity > 64.05: UnhealthyForSensitive (2.0)
+|   |   |   |   |   Hour > 3
+|   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   |   Temperature <= 31.92: Unhealthy (8.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.92: Moderate (5.0/2.0)
+|   |   |   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   |   |   Temperature <= 32.85: VeryUnhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 32.85: Unhealthy (3.0)
+|   |   |   |   |   |   |   Hour > 9
+|   |   |   |   |   |   |   |   Temperature <= 33.37: UnhealthyForSensitive (14.0/4.0)
+|   |   |   |   |   |   |   |   Temperature > 33.37
+|   |   |   |   |   |   |   |   |   Hour <= 12: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 12
+|   |   |   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 994.44: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 994.44
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 997.83: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 997.83: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 52.45: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 52.45: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   Air Pressure <= 992.74
+|   |   |   |   |   |   |   |   Temperature <= 32.91
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 58.53: Unhealthy (8.0/2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 58.53: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 32.91
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 53.73: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 53.73: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 992.74: Unhealthy (18.0)
+|   |   Air Pressure > 998.5
+|   |   |   Relative Humidity <= 57.14
+|   |   |   |   Temperature <= 34.29
+|   |   |   |   |   Relative Humidity <= 51.89: Unhealthy (133.0/26.0)
+|   |   |   |   |   Relative Humidity > 51.89
+|   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   Temperature <= 32.69
+|   |   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   |   Hour <= 0
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.43: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.43: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   Hour > 0
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1002.67
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 56: Unhealthy (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 56
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.59: VeryUnhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.59: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1002.67: Unhealthy (35.0)
+|   |   |   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1011.2
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1008.04
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.56: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 31.56: VeryUnhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1008.04: UnhealthyForSensitive (7.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1011.2
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.75: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.75: Unhealthy (11.0/2.0)
+|   |   |   |   |   |   |   Temperature > 32.69
+|   |   |   |   |   |   |   |   Relative Humidity <= 56.15
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 55.73
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.49
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1000.79: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1000.79: Unhealthy (8.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.49
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 2: Moderate (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 2: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 55.73: Unhealthy (4.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 56.15
+|   |   |   |   |   |   |   |   |   Hour <= 6
+|   |   |   |   |   |   |   |   |   |   Hour <= 1: Moderate (6.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 1: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 6: Moderate (3.0)
+|   |   |   |   |   |   Hour > 11
+|   |   |   |   |   |   |   Air Pressure <= 1004.25
+|   |   |   |   |   |   |   |   Relative Humidity <= 53.8
+|   |   |   |   |   |   |   |   |   Hour <= 21: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 21: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 53.8: Moderate (8.0)
+|   |   |   |   |   |   |   Air Pressure > 1004.25
+|   |   |   |   |   |   |   |   Air Pressure <= 1007.13
+|   |   |   |   |   |   |   |   |   Temperature <= 30.33
+|   |   |   |   |   |   |   |   |   |   Hour <= 18: Unhealthy (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 18: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 30.33: UnhealthyForSensitive (31.0/3.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1007.13
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1011.08
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1010.73
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 27.81: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 27.81: UnhealthyForSensitive (43.0/15.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1010.73: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1011.08: Moderate (9.0/3.0)
+|   |   |   |   Temperature > 34.29
+|   |   |   |   |   Relative Humidity <= 55.17
+|   |   |   |   |   |   Hour <= 14
+|   |   |   |   |   |   |   Air Pressure <= 1008.8
+|   |   |   |   |   |   |   |   Relative Humidity <= 40.71: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 40.71
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1000.91: Unhealthy (5.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1000.91
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1003.12: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1003.12
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 35.57: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 35.57: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 1008.8: UnhealthyForSensitive (7.0/1.0)
+|   |   |   |   |   |   Hour > 14: UnhealthyForSensitive (35.0/6.0)
+|   |   |   |   |   Relative Humidity > 55.17: Moderate (4.0)
+|   |   |   Relative Humidity > 57.14
+|   |   |   |   Location = Pathumthani
+|   |   |   |   |   Relative Humidity <= 59.66
+|   |   |   |   |   |   Temperature <= 30.89
+|   |   |   |   |   |   |   Temperature <= 29.68
+|   |   |   |   |   |   |   |   Temperature <= 28.17
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 58.54: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 58.54: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 28.17: Unhealthy (9.0/1.0)
+|   |   |   |   |   |   |   Temperature > 29.68
+|   |   |   |   |   |   |   |   Temperature <= 30.66: UnhealthyForSensitive (16.0)
+|   |   |   |   |   |   |   |   Temperature > 30.66: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   Temperature > 30.89
+|   |   |   |   |   |   |   Hour <= 3
+|   |   |   |   |   |   |   |   Temperature <= 32.56: UnhealthyForSensitive (11.0/2.0)
+|   |   |   |   |   |   |   |   Temperature > 32.56
+|   |   |   |   |   |   |   |   |   Hour <= 1: Moderate (12.0/3.0)
+|   |   |   |   |   |   |   |   |   Hour > 1
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1007.31: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1007.31
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 58.93: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 58.93
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 59.36: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 59.36: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   Hour > 3
+|   |   |   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   |   |   Temperature <= 31.52
+|   |   |   |   |   |   |   |   |   |   Hour <= 10: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 10: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.52
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1004.05
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 8: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 8: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1004.05: Unhealthy (28.0/12.0)
+|   |   |   |   |   |   |   |   Hour > 19: UnhealthyForSensitive (10.0/2.0)
+|   |   |   |   |   Relative Humidity > 59.66
+|   |   |   |   |   |   Hour <= 5
+|   |   |   |   |   |   |   Air Pressure <= 1008.94: UnhealthyForSensitive (85.0/36.0)
+|   |   |   |   |   |   |   Air Pressure > 1008.94
+|   |   |   |   |   |   |   |   Relative Humidity <= 65.94
+|   |   |   |   |   |   |   |   |   Temperature <= 29.94: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   Temperature > 29.94
+|   |   |   |   |   |   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.57
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.6
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 63.76: UnhealthyForSensitive (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 63.76: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.6: Moderate (9.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 32.57: UnhealthyForSensitive (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 4: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 65.94: Moderate (42.0/8.0)
+|   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   Temperature <= 32.14
+|   |   |   |   |   |   |   |   Air Pressure <= 1006.63: UnhealthyForSensitive (27.0/7.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1006.63
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 64.98
+|   |   |   |   |   |   |   |   |   |   Temperature <= 27.73
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 16
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 13: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 13: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 16: UnhealthyForSensitive (9.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 27.73
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1012.62
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.28
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.75: Moderate (58.0/12.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.75
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 62.52: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 62.52: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 8: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.28
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.55: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.55: Moderate (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1012.62: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 64.98
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1009
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 27.88: UnhealthyForSensitive (11.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 27.88
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 16
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1008.74
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 67.48: UnhealthyForSensitive (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 67.48
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 6: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 6
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 13: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 13: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1008.74: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 16
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 18: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 18: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1009
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 13
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.64
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 69.59
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 9: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 9
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 65.92: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 65.92: UnhealthyForSensitive (13.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 69.59
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1014.21
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 29.53
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 73.69: UnhealthyForSensitive (11.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 73.69: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 29.53: UnhealthyForSensitive (13.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1014.21: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.64
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1010.43
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.73: UnhealthyForSensitive (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.73: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1010.43
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 76: Moderate (18.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 76: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 13
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 18: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.95: UnhealthyForSensitive (13.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.95
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1014.11: Moderate (11.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1014.11: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   Temperature > 32.14
+|   |   |   |   |   |   |   |   Air Pressure <= 1010.45
+|   |   |   |   |   |   |   |   |   Temperature <= 32.7
+|   |   |   |   |   |   |   |   |   |   Hour <= 7
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 62.79: Unhealthy (4.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 62.79: UnhealthyForSensitive (10.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 7
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 22: Unhealthy (10.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 22: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Temperature > 32.7
+|   |   |   |   |   |   |   |   |   |   Hour <= 10
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 61.86: Moderate (7.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 61.86: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 10
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 12
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 62.23: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 62.23: UnhealthyForSensitive (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 12
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 67.64: UnhealthyForSensitive (22.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 67.64: Moderate (2.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1010.45
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 62.45: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 62.45: UnhealthyForSensitive (19.0/2.0)
+|   |   |   |   Location = ChiangRai: Moderate (2.0/1.0)
+|   |   |   |   Location = Tak: Moderate (7.0)
+|   Month = April
+|   |   Air Pressure <= 999.28
+|   |   |   Hour <= 10
+|   |   |   |   Temperature <= 28.49
+|   |   |   |   |   Relative Humidity <= 55.73: VeryGood (4.0)
+|   |   |   |   |   Relative Humidity > 55.73: Unhealthy (10.0/2.0)
+|   |   |   |   Temperature > 28.49
+|   |   |   |   |   Air Pressure <= 997.98
+|   |   |   |   |   |   Relative Humidity <= 55.4
+|   |   |   |   |   |   |   Temperature <= 30.33
+|   |   |   |   |   |   |   |   Relative Humidity <= 52.71: Hazardous (5.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 52.71: VeryUnhealthy (3.0)
+|   |   |   |   |   |   |   Temperature > 30.33
+|   |   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 46.75
+|   |   |   |   |   |   |   |   |   |   Hour <= 2: VeryUnhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 2: Hazardous (2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 46.75
+|   |   |   |   |   |   |   |   |   |   Hour <= 2
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 993.53
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 50.48: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 50.48: UnhealthyForSensitive (16.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 993.53
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.82: Unhealthy (9.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.82
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 53.36: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 53.36: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 2
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 6
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.66: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.66
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 995.97: VeryUnhealthy (6.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 995.97: Hazardous (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 6
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 7: VeryUnhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 7
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 990.27: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 990.27: Unhealthy (11.0/2.0)
+|   |   |   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   |   |   Temperature <= 34.05: Unhealthy (18.0/7.0)
+|   |   |   |   |   |   |   |   |   Temperature > 34.05
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 42.44: VeryUnhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 42.44
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 997.37: UnhealthyForSensitive (7.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 997.37: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 9
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 35.24: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 35.24
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 36.4: Unhealthy (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 36.4: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 55.4
+|   |   |   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   |   |   Temperature <= 31.98
+|   |   |   |   |   |   |   |   |   Air Pressure <= 995.56
+|   |   |   |   |   |   |   |   |   |   Temperature <= 29.97
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 29.16: Unhealthy (6.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 29.16: UnhealthyForSensitive (10.0/4.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 29.97: Unhealthy (27.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 995.56
+|   |   |   |   |   |   |   |   |   |   Hour <= 2
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 64.08: UnhealthyForSensitive (6.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 64.08: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 2
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 59.44
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 57.34: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 57.34: VeryUnhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 59.44: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Temperature > 31.98: UnhealthyForSensitive (11.0/1.0)
+|   |   |   |   |   |   |   Hour > 4: Unhealthy (65.0/11.0)
+|   |   |   |   |   Air Pressure > 997.98
+|   |   |   |   |   |   Relative Humidity <= 62.15
+|   |   |   |   |   |   |   Hour <= 7
+|   |   |   |   |   |   |   |   Air Pressure <= 998.89: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   Air Pressure > 998.89: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   Hour > 7: Unhealthy (7.0)
+|   |   |   |   |   |   Relative Humidity > 62.15: Moderate (7.0/1.0)
+|   |   |   Hour > 10
+|   |   |   |   Hour <= 21
+|   |   |   |   |   Air Pressure <= 996.36
+|   |   |   |   |   |   Relative Humidity <= 51.66
+|   |   |   |   |   |   |   Hour <= 17
+|   |   |   |   |   |   |   |   Hour <= 13
+|   |   |   |   |   |   |   |   |   Temperature <= 34.78
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 45.64: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 45.64: Unhealthy (6.0/3.0)
+|   |   |   |   |   |   |   |   |   Temperature > 34.78
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 35.92: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 35.92: UnhealthyForSensitive (47.0/16.0)
+|   |   |   |   |   |   |   |   Hour > 13
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 43.97
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 994.29: UnhealthyForSensitive (74.0/41.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 994.29
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 14: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 14: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 43.97
+|   |   |   |   |   |   |   |   |   |   Temperature <= 32.74: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 32.74
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 15
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 34.38: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 34.38: Unhealthy (5.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 15: Unhealthy (7.0)
+|   |   |   |   |   |   |   Hour > 17
+|   |   |   |   |   |   |   |   Temperature <= 34.97
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 43.88: UnhealthyForSensitive (13.0/2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 43.88
+|   |   |   |   |   |   |   |   |   |   Temperature <= 34.37: UnhealthyForSensitive (32.0/12.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 34.37: Unhealthy (7.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 34.97: Unhealthy (25.0/10.0)
+|   |   |   |   |   |   Relative Humidity > 51.66
+|   |   |   |   |   |   |   Relative Humidity <= 53.85
+|   |   |   |   |   |   |   |   Relative Humidity <= 52.39: VeryGood (2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 52.39
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 53.78: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 53.78: Unhealthy (2.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 53.85
+|   |   |   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 55.59: Unhealthy (4.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 55.59: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   |   Temperature <= 31.39: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.39: Unhealthy (4.0/2.0)
+|   |   |   |   |   Air Pressure > 996.36
+|   |   |   |   |   |   Hour <= 12
+|   |   |   |   |   |   |   Air Pressure <= 997.44: UnhealthyForSensitive (5.0/2.0)
+|   |   |   |   |   |   |   Air Pressure > 997.44: Unhealthy (5.0)
+|   |   |   |   |   |   Hour > 12
+|   |   |   |   |   |   |   Hour <= 19: Moderate (24.0/6.0)
+|   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   Hour <= 20
+|   |   |   |   |   |   |   |   |   Air Pressure <= 997.02: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 997.02: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 20: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   Hour > 21
+|   |   |   |   |   Temperature <= 31.82
+|   |   |   |   |   |   Air Pressure <= 987.42
+|   |   |   |   |   |   |   Relative Humidity <= 57.11: Moderate (2.0)
+|   |   |   |   |   |   |   Relative Humidity > 57.11: Unhealthy (2.0)
+|   |   |   |   |   |   Air Pressure > 987.42
+|   |   |   |   |   |   |   Relative Humidity <= 56.63: Unhealthy (5.0)
+|   |   |   |   |   |   |   Relative Humidity > 56.63
+|   |   |   |   |   |   |   |   Temperature <= 30.43: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 30.43: UnhealthyForSensitive (2.0)
+|   |   |   |   |   Temperature > 31.82
+|   |   |   |   |   |   Relative Humidity <= 49.12
+|   |   |   |   |   |   |   Hour <= 22
+|   |   |   |   |   |   |   |   Air Pressure <= 983.37: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   Air Pressure > 983.37
+|   |   |   |   |   |   |   |   |   Air Pressure <= 995.17: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 995.17: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   Hour > 22: Unhealthy (8.0/2.0)
+|   |   |   |   |   |   Relative Humidity > 49.12
+|   |   |   |   |   |   |   Relative Humidity <= 54.11: UnhealthyForSensitive (11.0)
+|   |   |   |   |   |   |   Relative Humidity > 54.11
+|   |   |   |   |   |   |   |   Air Pressure <= 995.28: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   Air Pressure > 995.28: Unhealthy (2.0)
+|   |   Air Pressure > 999.28
+|   |   |   Temperature <= 34.19
+|   |   |   |   Temperature <= 31.09
+|   |   |   |   |   Air Pressure <= 1004.83
+|   |   |   |   |   |   Relative Humidity <= 63.69
+|   |   |   |   |   |   |   Temperature <= 28.22
+|   |   |   |   |   |   |   |   Hour <= 4: VeryGood (2.0)
+|   |   |   |   |   |   |   |   Hour > 4: Moderate (4.0)
+|   |   |   |   |   |   |   Temperature > 28.22
+|   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 61.23
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 49.74: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 49.74
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 15: Unhealthy (4.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 15
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 56.93: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 56.93: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 61.23
+|   |   |   |   |   |   |   |   |   |   Temperature <= 29.8
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 16
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 62.26: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 62.26: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 16: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 29.8: VeryGood (2.0)
+|   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   Temperature <= 29.78: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   Temperature > 29.78: Moderate (4.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 63.69
+|   |   |   |   |   |   |   Air Pressure <= 1000.2
+|   |   |   |   |   |   |   |   Hour <= 3: Moderate (2.0)
+|   |   |   |   |   |   |   |   Hour > 3: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   Air Pressure > 1000.2: Moderate (15.0/1.0)
+|   |   |   |   |   Air Pressure > 1004.83
+|   |   |   |   |   |   Relative Humidity <= 67.09
+|   |   |   |   |   |   |   Relative Humidity <= 55.23: UnhealthyForSensitive (13.0)
+|   |   |   |   |   |   |   Relative Humidity > 55.23
+|   |   |   |   |   |   |   |   Air Pressure <= 1006.86
+|   |   |   |   |   |   |   |   |   Temperature <= 29.25
+|   |   |   |   |   |   |   |   |   |   Temperature <= 29.02
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 13: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 13
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1005.53: Unhealthy (4.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1005.53: UnhealthyForSensitive (10.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 29.02
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1005.66: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1005.66: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   Temperature > 29.25
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 58.44
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 15: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 15: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 58.44: Moderate (14.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1006.86
+|   |   |   |   |   |   |   |   |   Temperature <= 26.32: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   Temperature > 26.32
+|   |   |   |   |   |   |   |   |   |   Temperature <= 28.35
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 57.39
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 56.99: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 56.99: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 57.39: UnhealthyForSensitive (35.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 28.35
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 58.87: UnhealthyForSensitive (13.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 58.87
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1010.65: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1010.65: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 4
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 61.51
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1008.92
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 14: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 14: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1008.92: UnhealthyForSensitive (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 61.51: Moderate (30.0/13.0)
+|   |   |   |   |   |   Relative Humidity > 67.09
+|   |   |   |   |   |   |   Temperature <= 26.85: Unhealthy (10.0/1.0)
+|   |   |   |   |   |   |   Temperature > 26.85
+|   |   |   |   |   |   |   |   Air Pressure <= 1011.65
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 72.41
+|   |   |   |   |   |   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1008.21: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1008.21: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 4
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 27.33
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1006.62: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1006.62: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 27.33
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 9: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 9: Moderate (29.0/5.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 72.41
+|   |   |   |   |   |   |   |   |   |   Temperature <= 28.71
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 73.42: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 73.42: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 28.71: UnhealthyForSensitive (9.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1011.65
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 71.17
+|   |   |   |   |   |   |   |   |   |   Hour <= 7: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 7
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1013.87: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1013.87: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 71.17: VeryGood (3.0)
+|   |   |   |   Temperature > 31.09
+|   |   |   |   |   Air Pressure <= 1008.79
+|   |   |   |   |   |   Temperature <= 33.4
+|   |   |   |   |   |   |   Hour <= 7
+|   |   |   |   |   |   |   |   Relative Humidity <= 59.77
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1008.09: UnhealthyForSensitive (7.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1008.09: VeryGood (7.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 59.77
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1006.75
+|   |   |   |   |   |   |   |   |   |   Temperature <= 32.24
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 62.22: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 62.22: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 32.24: VeryGood (16.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1006.75
+|   |   |   |   |   |   |   |   |   |   Temperature <= 32.33: Moderate (16.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 32.33
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1008.29: Moderate (25.0/11.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1008.29
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1008.53: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1008.53: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   Hour > 7
+|   |   |   |   |   |   |   |   Relative Humidity <= 66.66
+|   |   |   |   |   |   |   |   |   Temperature <= 31.5
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1000.46: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1000.46: UnhealthyForSensitive (7.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.5
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 55.6
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.7
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 18: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 18: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 32.7: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 55.6
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 14
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 8: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.19: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.19: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 14
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 61.2: Moderate (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 61.2
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.89: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.89: Moderate (2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 66.66
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 71.49
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1007.99: UnhealthyForSensitive (8.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1007.99: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 71.49
+|   |   |   |   |   |   |   |   |   |   Hour <= 16: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 16: Unhealthy (2.0)
+|   |   |   |   |   |   Temperature > 33.4
+|   |   |   |   |   |   |   Temperature <= 33.84
+|   |   |   |   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1007.11: UnhealthyForSensitive (6.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1007.11: Moderate (19.0/8.0)
+|   |   |   |   |   |   |   |   Hour > 4
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1006.19: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1006.19
+|   |   |   |   |   |   |   |   |   |   Hour <= 20: UnhealthyForSensitive (12.0/4.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 20: Moderate (2.0)
+|   |   |   |   |   |   |   Temperature > 33.84
+|   |   |   |   |   |   |   |   Temperature <= 34.11: Moderate (12.0/2.0)
+|   |   |   |   |   |   |   |   Temperature > 34.11: UnhealthyForSensitive (2.0)
+|   |   |   |   |   Air Pressure > 1008.79
+|   |   |   |   |   |   Temperature <= 32.75
+|   |   |   |   |   |   |   Temperature <= 32.29
+|   |   |   |   |   |   |   |   Air Pressure <= 1012.12
+|   |   |   |   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 53.65: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 53.65: Moderate (60.0/16.0)
+|   |   |   |   |   |   |   |   |   Hour > 11
+|   |   |   |   |   |   |   |   |   |   Hour <= 20
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 17: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 17: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 20: Moderate (12.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1012.12: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   Temperature > 32.29
+|   |   |   |   |   |   |   |   Air Pressure <= 1010.56
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 70.06: UnhealthyForSensitive (12.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 70.06: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1010.56: Moderate (6.0/1.0)
+|   |   |   |   |   |   Temperature > 32.75
+|   |   |   |   |   |   |   Hour <= 6: Moderate (20.0)
+|   |   |   |   |   |   |   Hour > 6
+|   |   |   |   |   |   |   |   Relative Humidity <= 68.06
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 60.52
+|   |   |   |   |   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.36: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.36
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 58.91: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 58.91: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 9: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 11
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.66
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.15: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.15: UnhealthyForSensitive (8.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 33.66: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 60.52
+|   |   |   |   |   |   |   |   |   |   Temperature <= 33.16: Moderate (18.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 33.16
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1009.33: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1009.33
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 11: Moderate (9.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 11: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 68.06: UnhealthyForSensitive (7.0/1.0)
+|   |   |   Temperature > 34.19
+|   |   |   |   Hour <= 10
+|   |   |   |   |   Temperature <= 35.14: Unhealthy (11.0/1.0)
+|   |   |   |   |   Temperature > 35.14: UnhealthyForSensitive (3.0)
+|   |   |   |   Hour > 10
+|   |   |   |   |   Air Pressure <= 1000.47
+|   |   |   |   |   |   Relative Humidity <= 44.55: VeryGood (2.0)
+|   |   |   |   |   |   Relative Humidity > 44.55: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   Air Pressure > 1000.47
+|   |   |   |   |   |   Temperature <= 36.02
+|   |   |   |   |   |   |   Relative Humidity <= 61.25: Moderate (49.0/14.0)
+|   |   |   |   |   |   |   Relative Humidity > 61.25
+|   |   |   |   |   |   |   |   Hour <= 13: Moderate (3.0)
+|   |   |   |   |   |   |   |   Hour > 13
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1006.97: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1006.97: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   Temperature > 36.02
+|   |   |   |   |   |   |   Hour <= 15: Unhealthy (4.0)
+|   |   |   |   |   |   |   Hour > 15
+|   |   |   |   |   |   |   |   Relative Humidity <= 49.59: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 49.59: UnhealthyForSensitive (4.0)
+|   Month = May
+|   |   Air Pressure <= 988.54
+|   |   |   Temperature <= 38.63
+|   |   |   |   Temperature <= 27.39: VeryGood (17.0)
+|   |   |   |   Temperature > 27.39
+|   |   |   |   |   Hour <= 7
+|   |   |   |   |   |   Temperature <= 30.1
+|   |   |   |   |   |   |   Hour <= 2: VeryGood (31.0/9.0)
+|   |   |   |   |   |   |   Hour > 2
+|   |   |   |   |   |   |   |   Hour <= 3
+|   |   |   |   |   |   |   |   |   Temperature <= 29.28
+|   |   |   |   |   |   |   |   |   |   Temperature <= 28.36: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 28.36: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   Temperature > 29.28: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 3: Moderate (43.0/13.0)
+|   |   |   |   |   |   Temperature > 30.1: Moderate (31.0/8.0)
+|   |   |   |   |   Hour > 7
+|   |   |   |   |   |   Hour <= 16
+|   |   |   |   |   |   |   Location = Pathumthani: Moderate (20.0/4.0)
+|   |   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 81.44: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 81.44: VeryGood (2.0)
+|   |   |   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 55.99
+|   |   |   |   |   |   |   |   |   |   Temperature <= 35.55: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 35.55: VeryGood (22.0/8.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 55.99: VeryGood (17.0)
+|   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   Relative Humidity <= 63.6: Moderate (39.0/16.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 63.6: VeryGood (13.0/1.0)
+|   |   |   |   |   |   Hour > 16
+|   |   |   |   |   |   |   Relative Humidity <= 74.34: Moderate (77.0/19.0)
+|   |   |   |   |   |   |   Relative Humidity > 74.34
+|   |   |   |   |   |   |   |   Hour <= 18: VeryGood (9.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   Temperature <= 28.2: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   Temperature > 28.2
+|   |   |   |   |   |   |   |   |   |   Hour <= 22
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 82.26: Moderate (11.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 82.26
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 84.29: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 84.29: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 22
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 78.25: VeryGood (5.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 78.25: Moderate (3.0)
+|   |   |   Temperature > 38.63: VeryGood (32.0/3.0)
+|   |   Air Pressure > 988.54
+|   |   |   Relative Humidity <= 66.11
+|   |   |   |   Hour <= 18
+|   |   |   |   |   Relative Humidity <= 53.13
+|   |   |   |   |   |   Air Pressure <= 997.73: Moderate (69.0/5.0)
+|   |   |   |   |   |   Air Pressure > 997.73: VeryGood (2.0)
+|   |   |   |   |   Relative Humidity > 53.13
+|   |   |   |   |   |   Temperature <= 37.64
+|   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   Air Pressure <= 996.36
+|   |   |   |   |   |   |   |   |   Hour <= 10
+|   |   |   |   |   |   |   |   |   |   Temperature <= 32.46: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 32.46: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 10: Moderate (9.0)
+|   |   |   |   |   |   |   |   Air Pressure > 996.36
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 59.87
+|   |   |   |   |   |   |   |   |   |   Temperature <= 33.66: Moderate (12.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 33.66
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 999.78: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 999.78: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 11: VeryGood (12.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 59.87
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1000.74
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 4: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 4
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 15: Moderate (11.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 15: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1000.74: Moderate (60.0/11.0)
+|   |   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   |   Temperature <= 34.19: Moderate (13.0/3.0)
+|   |   |   |   |   |   |   |   Temperature > 34.19: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   Location = Tak: Moderate (13.0/3.0)
+|   |   |   |   |   |   Temperature > 37.64
+|   |   |   |   |   |   |   Hour <= 12: Moderate (5.0)
+|   |   |   |   |   |   |   Hour > 12
+|   |   |   |   |   |   |   |   Relative Humidity <= 56.45: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 56.45
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 59.86
+|   |   |   |   |   |   |   |   |   |   Hour <= 13
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 39.22: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 39.22: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 13: Moderate (7.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 59.86: UnhealthyForSensitive (5.0)
+|   |   |   |   Hour > 18
+|   |   |   |   |   Air Pressure <= 1010.94: Moderate (66.0/10.0)
+|   |   |   |   |   Air Pressure > 1010.94: UnhealthyForSensitive (4.0/1.0)
+|   |   |   Relative Humidity > 66.11
+|   |   |   |   Temperature <= 30.5
+|   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   Air Pressure <= 1004.4
+|   |   |   |   |   |   |   Air Pressure <= 995.77: Moderate (21.0/5.0)
+|   |   |   |   |   |   |   Air Pressure > 995.77
+|   |   |   |   |   |   |   |   Hour <= 3: VeryGood (11.0/2.0)
+|   |   |   |   |   |   |   |   Hour > 3: Moderate (33.0/12.0)
+|   |   |   |   |   |   Air Pressure > 1004.4
+|   |   |   |   |   |   |   Relative Humidity <= 93.68
+|   |   |   |   |   |   |   |   Air Pressure <= 1006.32
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 92.84
+|   |   |   |   |   |   |   |   |   |   Hour <= 1: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 1: Moderate (16.0/4.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 92.84
+|   |   |   |   |   |   |   |   |   |   Temperature <= 29.35: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 29.35: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1006.32
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1010.21
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 87.58: UnhealthyForSensitive (19.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 87.58
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 29.42
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 8: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 8: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 29.42
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 92.58: UnhealthyForSensitive (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 92.58: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 9: Moderate (8.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1010.21: VeryGood (3.0)
+|   |   |   |   |   |   |   Relative Humidity > 93.68
+|   |   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   |   Hour <= 7
+|   |   |   |   |   |   |   |   |   |   Hour <= 1
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 96.67
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 28.61: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 28.61
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 94.47: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 94.47: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 96.67: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 1
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 29.73
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 6: UnhealthyForSensitive (38.0/14.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 6: Moderate (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 29.73: UnhealthyForSensitive (8.0)
+|   |   |   |   |   |   |   |   |   Hour > 7
+|   |   |   |   |   |   |   |   |   |   Temperature <= 29.17: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 29.17: Moderate (3.0)
+|   |   |   |   |   |   |   |   Hour > 9
+|   |   |   |   |   |   |   |   |   Hour <= 14: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   Hour > 14
+|   |   |   |   |   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 94.49: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 94.49: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 97.57: Moderate (13.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 97.57: UnhealthyForSensitive (4.0)
+|   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   Hour <= 5: Moderate (6.0)
+|   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   Relative Humidity <= 73.85: Moderate (2.0)
+|   |   |   |   |   |   |   Relative Humidity > 73.85: UnhealthyForSensitive (3.0)
+|   |   |   |   |   Location = Tak
+|   |   |   |   |   |   Hour <= 5: Moderate (4.0/1.0)
+|   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   Hour <= 6: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   Hour > 6: Unhealthy (2.0)
+|   |   |   |   Temperature > 30.5
+|   |   |   |   |   Hour <= 15
+|   |   |   |   |   |   Temperature <= 31.53
+|   |   |   |   |   |   |   Hour <= 2
+|   |   |   |   |   |   |   |   Air Pressure <= 1006.64
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 90.76: Moderate (10.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 90.76: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1006.64: UnhealthyForSensitive (10.0)
+|   |   |   |   |   |   |   Hour > 2: Moderate (69.0/28.0)
+|   |   |   |   |   |   Temperature > 31.53: Moderate (175.0/44.0)
+|   |   |   |   |   Hour > 15
+|   |   |   |   |   |   Air Pressure <= 1008.42
+|   |   |   |   |   |   |   Temperature <= 31.32
+|   |   |   |   |   |   |   |   Relative Humidity <= 92.44: Moderate (23.0/3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 92.44: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   Temperature > 31.32
+|   |   |   |   |   |   |   |   Air Pressure <= 1003.82
+|   |   |   |   |   |   |   |   |   Temperature <= 34.78
+|   |   |   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1002.73: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1002.73: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 998.11: Moderate (6.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 998.11: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   Temperature > 34.78: UnhealthyForSensitive (7.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1003.82: Moderate (42.0/20.0)
+|   |   |   |   |   |   Air Pressure > 1008.42
+|   |   |   |   |   |   |   Relative Humidity <= 68.78: Moderate (3.0)
+|   |   |   |   |   |   |   Relative Humidity > 68.78
+|   |   |   |   |   |   |   |   Hour <= 22: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   Hour > 22: UnhealthyForSensitive (2.0)
+|   Month = June
+|   |   Air Pressure <= 986.09
+|   |   |   Temperature <= 33.49
+|   |   |   |   Hour <= 4
+|   |   |   |   |   Relative Humidity <= 83.43
+|   |   |   |   |   |   Air Pressure <= 982.53
+|   |   |   |   |   |   |   Location = Pathumthani: Moderate (2.0)
+|   |   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   |   Hour <= 2: Moderate (2.0)
+|   |   |   |   |   |   |   |   Hour > 2: VeryGood (2.0)
+|   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   Hour <= 3: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 3: Moderate (3.0)
+|   |   |   |   |   |   Air Pressure > 982.53: VeryGood (22.0)
+|   |   |   |   |   Relative Humidity > 83.43: VeryGood (46.0)
+|   |   |   |   Hour > 4
+|   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   Location = Pathumthani: Moderate (5.0)
+|   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   Air Pressure <= 982.77: VeryGood (13.0/3.0)
+|   |   |   |   |   |   |   Air Pressure > 982.77
+|   |   |   |   |   |   |   |   Hour <= 6: Moderate (7.0)
+|   |   |   |   |   |   |   |   Hour > 6
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 80.15: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 80.15
+|   |   |   |   |   |   |   |   |   |   Temperature <= 28.25: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 28.25: VeryGood (3.0)
+|   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   Hour <= 5: VeryGood (7.0/1.0)
+|   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   Hour <= 7: Moderate (15.0/2.0)
+|   |   |   |   |   |   |   |   Hour > 7: VeryGood (5.0/1.0)
+|   |   |   |   |   Hour > 8
+|   |   |   |   |   |   Relative Humidity <= 74.64
+|   |   |   |   |   |   |   Hour <= 17
+|   |   |   |   |   |   |   |   Air Pressure <= 979.17
+|   |   |   |   |   |   |   |   |   Location = Pathumthani: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 68.11: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 68.11: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   Location = Tak: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 979.17: VeryGood (39.0/2.0)
+|   |   |   |   |   |   |   Hour > 17: Moderate (31.0/10.0)
+|   |   |   |   |   |   Relative Humidity > 74.64: VeryGood (115.0/11.0)
+|   |   |   Temperature > 33.49: VeryGood (56.0)
+|   |   Air Pressure > 986.09
+|   |   |   Relative Humidity <= 86.05
+|   |   |   |   Hour <= 17
+|   |   |   |   |   Location = Pathumthani: Moderate (222.0/106.0)
+|   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   Hour <= 3: VeryGood (22.0/10.0)
+|   |   |   |   |   |   |   Hour > 3: Moderate (29.0/11.0)
+|   |   |   |   |   |   Hour > 9
+|   |   |   |   |   |   |   Temperature <= 32.19
+|   |   |   |   |   |   |   |   Relative Humidity <= 65.26: Moderate (6.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 65.26
+|   |   |   |   |   |   |   |   |   Temperature <= 29.92
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 991.1: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 991.1: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   Temperature > 29.92: VeryGood (11.0)
+|   |   |   |   |   |   |   Temperature > 32.19: VeryGood (15.0)
+|   |   |   |   |   Location = Tak
+|   |   |   |   |   |   Hour <= 2: VeryGood (15.0/2.0)
+|   |   |   |   |   |   Hour > 2
+|   |   |   |   |   |   |   Temperature <= 32.49: Moderate (57.0/26.0)
+|   |   |   |   |   |   |   Temperature > 32.49: VeryGood (8.0)
+|   |   |   |   Hour > 17
+|   |   |   |   |   Hour <= 21: Moderate (89.0/21.0)
+|   |   |   |   |   Hour > 21
+|   |   |   |   |   |   Temperature <= 30.96
+|   |   |   |   |   |   |   Hour <= 22
+|   |   |   |   |   |   |   |   Location = Pathumthani: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   |   |   Air Pressure <= 994.06: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 994.06: Moderate (3.0)
+|   |   |   |   |   |   |   |   Location = Tak: Moderate (1.0)
+|   |   |   |   |   |   |   Hour > 22: VeryGood (17.0/4.0)
+|   |   |   |   |   |   Temperature > 30.96: Moderate (10.0/1.0)
+|   |   |   Relative Humidity > 86.05
+|   |   |   |   Relative Humidity <= 97.92
+|   |   |   |   |   Temperature <= 29.2
+|   |   |   |   |   |   Relative Humidity <= 96
+|   |   |   |   |   |   |   Hour <= 5: VeryGood (19.0/1.0)
+|   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   Temperature <= 28.61: VeryGood (6.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 28.61
+|   |   |   |   |   |   |   |   |   Hour <= 22: Moderate (7.0)
+|   |   |   |   |   |   |   |   |   Hour > 22: VeryGood (4.0)
+|   |   |   |   |   |   Relative Humidity > 96
+|   |   |   |   |   |   |   Temperature <= 28.26
+|   |   |   |   |   |   |   |   Hour <= 2: VeryGood (6.0)
+|   |   |   |   |   |   |   |   Hour > 2
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 96.6: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 96.6: Moderate (5.0/2.0)
+|   |   |   |   |   |   |   Temperature > 28.26: Moderate (20.0/2.0)
+|   |   |   |   |   Temperature > 29.2
+|   |   |   |   |   |   Relative Humidity <= 94.36
+|   |   |   |   |   |   |   Temperature <= 32.11
+|   |   |   |   |   |   |   |   Relative Humidity <= 91.17
+|   |   |   |   |   |   |   |   |   Temperature <= 31.17
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1008.03: VeryGood (11.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1008.03: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.17: Moderate (21.0/4.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 91.17
+|   |   |   |   |   |   |   |   |   Hour <= 17: Moderate (29.0/8.0)
+|   |   |   |   |   |   |   |   |   Hour > 17
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 93.71
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 92.46: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 92.46: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 93.71: VeryGood (4.0)
+|   |   |   |   |   |   |   Temperature > 32.11: UnhealthyForSensitive (8.0/2.0)
+|   |   |   |   |   |   Relative Humidity > 94.36: Moderate (41.0/9.0)
+|   |   |   |   Relative Humidity > 97.92
+|   |   |   |   |   Relative Humidity <= 98.84: Moderate (23.0)
+|   |   |   |   |   Relative Humidity > 98.84: UnhealthyForSensitive (2.0)
+|   Month = July
+|   |   Relative Humidity <= 77.99
+|   |   |   Hour <= 4
+|   |   |   |   Temperature <= 30.78: VeryGood (50.0/4.0)
+|   |   |   |   Temperature > 30.78: Moderate (5.0/1.0)
+|   |   |   Hour > 4
+|   |   |   |   Hour <= 7
+|   |   |   |   |   Relative Humidity <= 76.97: Moderate (19.0/1.0)
+|   |   |   |   |   Relative Humidity > 76.97
+|   |   |   |   |   |   Hour <= 5: VeryGood (4.0/1.0)
+|   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   Hour <= 6: Moderate (4.0)
+|   |   |   |   |   |   |   Hour > 6: VeryGood (3.0/1.0)
+|   |   |   |   Hour > 7
+|   |   |   |   |   Air Pressure <= 1001.37
+|   |   |   |   |   |   Hour <= 17
+|   |   |   |   |   |   |   Relative Humidity <= 72.14: VeryGood (104.0/7.0)
+|   |   |   |   |   |   |   Relative Humidity > 72.14
+|   |   |   |   |   |   |   |   Temperature <= 29: VeryGood (10.0)
+|   |   |   |   |   |   |   |   Temperature > 29
+|   |   |   |   |   |   |   |   |   Location = Pathumthani: Moderate (18.0/9.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   |   |   |   Hour <= 15
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 75.42: VeryGood (9.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 75.42
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 988.23: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 988.23: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 15: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   Hour <= 8: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 73.05: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 73.05: Moderate (8.0/1.0)
+|   |   |   |   |   |   Hour > 17
+|   |   |   |   |   |   |   Temperature <= 26.65: Moderate (15.0)
+|   |   |   |   |   |   |   Temperature > 26.65
+|   |   |   |   |   |   |   |   Hour <= 18: VeryGood (12.0/2.0)
+|   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   Hour <= 19: Moderate (11.0/2.0)
+|   |   |   |   |   |   |   |   |   Hour > 19: VeryGood (47.0/15.0)
+|   |   |   |   |   Air Pressure > 1001.37
+|   |   |   |   |   |   Hour <= 15
+|   |   |   |   |   |   |   Relative Humidity <= 59.49: Moderate (7.0)
+|   |   |   |   |   |   |   Relative Humidity > 59.49
+|   |   |   |   |   |   |   |   Relative Humidity <= 69.21
+|   |   |   |   |   |   |   |   |   Temperature <= 35.73: VeryGood (13.0)
+|   |   |   |   |   |   |   |   |   Temperature > 35.73
+|   |   |   |   |   |   |   |   |   |   Hour <= 12
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1006.84: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1006.84: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 12: VeryGood (34.0/9.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 69.21
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1008.33: Moderate (60.0/23.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1008.33: VeryGood (5.0)
+|   |   |   |   |   |   Hour > 15: Moderate (62.0/19.0)
+|   |   Relative Humidity > 77.99
+|   |   |   Hour <= 4
+|   |   |   |   Relative Humidity <= 95.81
+|   |   |   |   |   Temperature <= 29.28: VeryGood (78.0/23.0)
+|   |   |   |   |   Temperature > 29.28
+|   |   |   |   |   |   Air Pressure <= 1006.25
+|   |   |   |   |   |   |   Air Pressure <= 1003.42
+|   |   |   |   |   |   |   |   Relative Humidity <= 85.41: Moderate (13.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 85.41: VeryGood (6.0)
+|   |   |   |   |   |   |   Air Pressure > 1003.42: Moderate (24.0/2.0)
+|   |   |   |   |   |   Air Pressure > 1006.25
+|   |   |   |   |   |   |   Relative Humidity <= 87.07: VeryGood (8.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 87.07
+|   |   |   |   |   |   |   |   Relative Humidity <= 93.24
+|   |   |   |   |   |   |   |   |   Temperature <= 29.84: VeryGood (5.0)
+|   |   |   |   |   |   |   |   |   Temperature > 29.84: Moderate (9.0/3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 93.24: Moderate (4.0)
+|   |   |   |   Relative Humidity > 95.81
+|   |   |   |   |   Relative Humidity <= 97.19
+|   |   |   |   |   |   Temperature <= 28.03: VeryGood (5.0/1.0)
+|   |   |   |   |   |   Temperature > 28.03: Moderate (24.0/4.0)
+|   |   |   |   |   Relative Humidity > 97.19: Moderate (14.0)
+|   |   |   Hour > 4
+|   |   |   |   Location = Pathumthani
+|   |   |   |   |   Air Pressure <= 1005.17
+|   |   |   |   |   |   Relative Humidity <= 81.39
+|   |   |   |   |   |   |   Hour <= 13
+|   |   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 78.98
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 990.67: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 990.67: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 78.98: Moderate (8.0)
+|   |   |   |   |   |   |   |   Hour > 8: VeryGood (4.0)
+|   |   |   |   |   |   |   Hour > 13: Moderate (20.0/3.0)
+|   |   |   |   |   |   Relative Humidity > 81.39: VeryGood (71.0/25.0)
+|   |   |   |   |   Air Pressure > 1005.17
+|   |   |   |   |   |   Relative Humidity <= 91.55
+|   |   |   |   |   |   |   Temperature <= 30.5
+|   |   |   |   |   |   |   |   Air Pressure <= 1005.99: Moderate (2.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1005.99: VeryGood (22.0/4.0)
+|   |   |   |   |   |   |   Temperature > 30.5
+|   |   |   |   |   |   |   |   Relative Humidity <= 86.45
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1008.79
+|   |   |   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 11: Moderate (26.0/5.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 11
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.28
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.72: VeryGood (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.72
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 17
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 81.24: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 81.24
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 83.27: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 83.27: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 17: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.28: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1007.92: Moderate (22.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1007.92
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 20: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 20: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1008.79: VeryGood (8.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 86.45: Moderate (41.0/3.0)
+|   |   |   |   |   |   Relative Humidity > 91.55
+|   |   |   |   |   |   |   Temperature <= 29.18
+|   |   |   |   |   |   |   |   Relative Humidity <= 93.1: VeryGood (5.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 93.1: Moderate (81.0/20.0)
+|   |   |   |   |   |   |   Temperature > 29.18: Moderate (57.0/5.0)
+|   |   |   |   Location = ChiangRai: Moderate (25.0/4.0)
+|   |   |   |   Location = Tak
+|   |   |   |   |   Air Pressure <= 993.02: Moderate (21.0/2.0)
+|   |   |   |   |   Air Pressure > 993.02: VeryGood (3.0)
+|   Month = August
+|   |   Relative Humidity <= 76.55
+|   |   |   Hour <= 17
+|   |   |   |   Hour <= 3: VeryGood (90.0/12.0)
+|   |   |   |   Hour > 3
+|   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   |   Temperature <= 30.24: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   Temperature > 30.24: VeryGood (15.0/2.0)
+|   |   |   |   |   |   Hour > 4
+|   |   |   |   |   |   |   Relative Humidity <= 70.31
+|   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   Air Pressure <= 993.29
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 67.18: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 67.18
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 5: VeryGood (5.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 69.62: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 69.62: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 993.29: Moderate (20.0/2.0)
+|   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   Hour <= 7: Moderate (14.0/6.0)
+|   |   |   |   |   |   |   |   |   Hour > 7: VeryGood (8.0/2.0)
+|   |   |   |   |   |   |   Relative Humidity > 70.31
+|   |   |   |   |   |   |   |   Relative Humidity <= 73.05
+|   |   |   |   |   |   |   |   |   Air Pressure <= 993.59
+|   |   |   |   |   |   |   |   |   |   Temperature <= 30.68: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 30.68: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 993.59: Moderate (16.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 73.05
+|   |   |   |   |   |   |   |   |   Air Pressure <= 994.47: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 994.47: VeryGood (3.0)
+|   |   |   |   |   Hour > 8
+|   |   |   |   |   |   Location = Pathumthani: VeryGood (209.0/65.0)
+|   |   |   |   |   |   Location = ChiangRai: VeryGood (6.0/1.0)
+|   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   Relative Humidity <= 64.72
+|   |   |   |   |   |   |   |   Relative Humidity <= 63.14
+|   |   |   |   |   |   |   |   |   Air Pressure <= 991.76
+|   |   |   |   |   |   |   |   |   |   Temperature <= 32.57
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 12: VeryGood (6.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 12
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.47
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 59.75: VeryGood (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 59.75
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 61.67: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 61.67: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.47: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 32.57: VeryGood (11.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 991.76: VeryGood (42.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 63.14
+|   |   |   |   |   |   |   |   |   Hour <= 15
+|   |   |   |   |   |   |   |   |   |   Hour <= 10: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 10: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 15: Moderate (5.0)
+|   |   |   |   |   |   |   Relative Humidity > 64.72: VeryGood (29.0)
+|   |   |   Hour > 17
+|   |   |   |   Hour <= 22
+|   |   |   |   |   Location = Pathumthani: Moderate (63.0/22.0)
+|   |   |   |   |   Location = ChiangRai: Moderate (2.0)
+|   |   |   |   |   Location = Tak
+|   |   |   |   |   |   Temperature <= 28.62
+|   |   |   |   |   |   |   Temperature <= 27.36: Moderate (2.0)
+|   |   |   |   |   |   |   Temperature > 27.36: VeryGood (18.0/2.0)
+|   |   |   |   |   |   Temperature > 28.62
+|   |   |   |   |   |   |   Air Pressure <= 995.79
+|   |   |   |   |   |   |   |   Temperature <= 31.62: Moderate (45.0/10.0)
+|   |   |   |   |   |   |   |   Temperature > 31.62: VeryGood (6.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 995.79: VeryGood (5.0)
+|   |   |   |   Hour > 22: VeryGood (23.0/6.0)
+|   |   Relative Humidity > 76.55
+|   |   |   Relative Humidity <= 91.29
+|   |   |   |   Hour <= 10
+|   |   |   |   |   Air Pressure <= 1007.31
+|   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   Air Pressure <= 1004.58: Moderate (11.0)
+|   |   |   |   |   |   |   Air Pressure > 1004.58
+|   |   |   |   |   |   |   |   Air Pressure <= 1005.11: VeryGood (12.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1005.11
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 83.65: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 83.65: Moderate (34.0/9.0)
+|   |   |   |   |   |   Location = ChiangRai
+|   |   |   |   |   |   |   Hour <= 5: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   Hour > 5: Moderate (4.0)
+|   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   Hour <= 5: VeryGood (2.0)
+|   |   |   |   |   |   |   Hour > 5: Moderate (3.0)
+|   |   |   |   |   Air Pressure > 1007.31
+|   |   |   |   |   |   Relative Humidity <= 86.75: VeryGood (31.0/3.0)
+|   |   |   |   |   |   Relative Humidity > 86.75
+|   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   Air Pressure <= 1008.42: VeryGood (2.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1008.42: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   Hour > 9: Moderate (2.0)
+|   |   |   |   Hour > 10
+|   |   |   |   |   Relative Humidity <= 90.85: Moderate (98.0/27.0)
+|   |   |   |   |   Relative Humidity > 90.85
+|   |   |   |   |   |   Temperature <= 30.68: VeryGood (5.0/1.0)
+|   |   |   |   |   |   Temperature > 30.68: Moderate (2.0/1.0)
+|   |   |   Relative Humidity > 91.29
+|   |   |   |   Temperature <= 28.77
+|   |   |   |   |   Relative Humidity <= 97.84: VeryGood (13.0/1.0)
+|   |   |   |   |   Relative Humidity > 97.84: Moderate (30.0/7.0)
+|   |   |   |   Temperature > 28.77
+|   |   |   |   |   Temperature <= 29.07
+|   |   |   |   |   |   Relative Humidity <= 97.88: UnhealthyForSensitive (14.0/4.0)
+|   |   |   |   |   |   Relative Humidity > 97.88
+|   |   |   |   |   |   |   Hour <= 4: Moderate (4.0)
+|   |   |   |   |   |   |   Hour > 4: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   Temperature > 29.07
+|   |   |   |   |   |   Relative Humidity <= 97.18
+|   |   |   |   |   |   |   Temperature <= 29.95
+|   |   |   |   |   |   |   |   Relative Humidity <= 95.28
+|   |   |   |   |   |   |   |   |   Hour <= 22: Moderate (22.0/7.0)
+|   |   |   |   |   |   |   |   |   Hour > 22: VeryGood (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 95.28: Moderate (26.0/2.0)
+|   |   |   |   |   |   |   Temperature > 29.95
+|   |   |   |   |   |   |   |   Hour <= 5
+|   |   |   |   |   |   |   |   |   Hour <= 1: Moderate (7.0)
+|   |   |   |   |   |   |   |   |   Hour > 1: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 93.38
+|   |   |   |   |   |   |   |   |   |   Temperature <= 31.86: Moderate (27.0/3.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 31.86
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1005.7: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1005.7: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 93.38
+|   |   |   |   |   |   |   |   |   |   Hour <= 20
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1007.55: UnhealthyForSensitive (9.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1007.55
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 95.34: Moderate (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 95.34: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 20: Moderate (5.0)
+|   |   |   |   |   |   Relative Humidity > 97.18
+|   |   |   |   |   |   |   Relative Humidity <= 99.15
+|   |   |   |   |   |   |   |   Temperature <= 29.63
+|   |   |   |   |   |   |   |   |   Hour <= 2: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 2: UnhealthyForSensitive (11.0)
+|   |   |   |   |   |   |   |   Temperature > 29.63: Moderate (13.0/3.0)
+|   |   |   |   |   |   |   Relative Humidity > 99.15: Moderate (5.0/1.0)
+|   Month = September
+|   |   Relative Humidity <= 69.75
+|   |   |   Air Pressure <= 1005.63
+|   |   |   |   Hour <= 17
+|   |   |   |   |   Temperature <= 34.76
+|   |   |   |   |   |   Air Pressure <= 998.11
+|   |   |   |   |   |   |   Relative Humidity <= 64.35
+|   |   |   |   |   |   |   |   Relative Humidity <= 51.61: VeryGood (45.0/13.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 51.61
+|   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   Temperature <= 34.69: Moderate (95.0/38.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 34.69: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (1.0)
+|   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   Temperature <= 30.12: VeryGood (10.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 30.12
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 997.05: Moderate (72.0/24.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 997.05: VeryGood (8.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 64.35
+|   |   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 66.41
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 65.67
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 995.52: Moderate (16.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 995.52
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.8: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.8
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 3: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 3
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 64.73: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 64.73: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 65.67: Moderate (22.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 66.41
+|   |   |   |   |   |   |   |   |   |   Hour <= 3: VeryGood (39.0/15.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 3
+|   |   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 68.75: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 68.75: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 996.54: Moderate (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 996.54: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 7: Moderate (16.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 7: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   |   |   Hour <= 12
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 992.42: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 992.42: VeryGood (10.0)
+|   |   |   |   |   |   |   |   |   Hour > 12
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 975.75: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 975.75: Moderate (2.0)
+|   |   |   |   |   |   Air Pressure > 998.11
+|   |   |   |   |   |   |   Hour <= 7
+|   |   |   |   |   |   |   |   Relative Humidity <= 69.37
+|   |   |   |   |   |   |   |   |   Hour <= 5: Moderate (35.0)
+|   |   |   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 65.25: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 65.25: Moderate (10.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 69.37: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   Hour > 7
+|   |   |   |   |   |   |   |   Temperature <= 31.6
+|   |   |   |   |   |   |   |   |   Hour <= 9: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 9: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   Temperature > 31.6: Moderate (37.0/4.0)
+|   |   |   |   |   Temperature > 34.76: Moderate (96.0/20.0)
+|   |   |   |   Hour > 17
+|   |   |   |   |   Temperature <= 31.25
+|   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   Relative Humidity <= 60.38
+|   |   |   |   |   |   |   |   Air Pressure <= 994.5: Moderate (8.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 994.5
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 57.99: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 57.99: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   Relative Humidity > 60.38
+|   |   |   |   |   |   |   |   Relative Humidity <= 60.89: Unhealthy (2.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 60.89
+|   |   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 993.6: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 993.6: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   Hour > 18: Moderate (6.0/1.0)
+|   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   Air Pressure <= 998
+|   |   |   |   |   |   |   |   Air Pressure <= 997.11
+|   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 66.21
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.55: VeryGood (8.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 30.55: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 66.21: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   Hour <= 20: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 20: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 997.11: VeryGood (10.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 998: Moderate (9.0)
+|   |   |   |   |   Temperature > 31.25: Moderate (128.0/24.0)
+|   |   |   Air Pressure > 1005.63
+|   |   |   |   Temperature <= 31.69: UnhealthyForSensitive (6.0/2.0)
+|   |   |   |   Temperature > 31.69
+|   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   Temperature <= 34.69
+|   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   Air Pressure <= 1006.56: Moderate (4.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1006.56
+|   |   |   |   |   |   |   |   |   Hour <= 5: VeryGood (5.0)
+|   |   |   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   |   |   Hour <= 7: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 7
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.07: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.07: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 8: VeryGood (5.0/2.0)
+|   |   |   |   |   |   |   Hour > 9: Moderate (4.0)
+|   |   |   |   |   |   Temperature > 34.69
+|   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   Air Pressure <= 1007.96: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1007.96: VeryGood (2.0)
+|   |   |   |   |   |   |   Hour > 9: VeryGood (11.0/2.0)
+|   |   |   |   |   Hour > 11
+|   |   |   |   |   |   Air Pressure <= 1005.83: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   Air Pressure > 1005.83
+|   |   |   |   |   |   |   Temperature <= 36.62
+|   |   |   |   |   |   |   |   Temperature <= 33.01: VeryGood (4.0)
+|   |   |   |   |   |   |   |   Temperature > 33.01
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1008.79: Moderate (17.0/6.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1008.79: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   Temperature > 36.62
+|   |   |   |   |   |   |   |   Relative Humidity <= 52.68: Moderate (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 52.68: VeryGood (19.0/5.0)
+|   |   Relative Humidity > 69.75
+|   |   |   Relative Humidity <= 97.1
+|   |   |   |   Location = Pathumthani
+|   |   |   |   |   Hour <= 3
+|   |   |   |   |   |   Relative Humidity <= 90.32
+|   |   |   |   |   |   |   Air Pressure <= 1007.42: VeryGood (27.0/14.0)
+|   |   |   |   |   |   |   Air Pressure > 1007.42
+|   |   |   |   |   |   |   |   Relative Humidity <= 75.77
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 72.21: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 72.21: Moderate (4.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 75.77: VeryGood (6.0)
+|   |   |   |   |   |   Relative Humidity > 90.32
+|   |   |   |   |   |   |   Relative Humidity <= 94.21: Moderate (17.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 94.21
+|   |   |   |   |   |   |   |   Air Pressure <= 1007.69
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 96.5: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 96.5: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1007.69: UnhealthyForSensitive (5.0)
+|   |   |   |   |   Hour > 3
+|   |   |   |   |   |   Air Pressure <= 1009.57
+|   |   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   |   Air Pressure <= 988.43
+|   |   |   |   |   |   |   |   |   Air Pressure <= 981: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 981: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 988.43
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1007.42
+|   |   |   |   |   |   |   |   |   |   Temperature <= 31.5
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1007.32
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.06
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 5: VeryGood (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 93.1: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 93.1: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.06
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.52
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.34: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.34: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.52: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.45: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.45
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 995.21: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 995.21: VeryGood (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1007.32: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 31.5: Unhealthy (5.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1007.42
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 76.14
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 71.28: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 71.28: VeryGood (10.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 76.14
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 34.48
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 9: Moderate (30.0/14.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 9: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 34.48: Moderate (8.0/1.0)
+|   |   |   |   |   |   |   Hour > 11
+|   |   |   |   |   |   |   |   Relative Humidity <= 92.25
+|   |   |   |   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   |   |   |   Hour <= 14
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 995.39: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 995.39: Moderate (13.0/3.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 14
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 34.67
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 73.27
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 16: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 16: UnhealthyForSensitive (8.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 73.27
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 15: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 15
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 84.46
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1004.96: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1004.96: Moderate (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 84.46
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.18: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.18: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 18: Moderate (10.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 34.67: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   |   |   Temperature <= 30.96: Moderate (22.0/7.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 30.96
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1007.36: VeryGood (6.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1007.36
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 20: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 20
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 86.9: VeryGood (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 86.9
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 90.56: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 90.56: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 92.25
+|   |   |   |   |   |   |   |   |   Temperature <= 31.29: Unhealthy (8.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.29: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   Air Pressure > 1009.57
+|   |   |   |   |   |   |   Temperature <= 33.87
+|   |   |   |   |   |   |   |   Hour <= 21: UnhealthyForSensitive (19.0/9.0)
+|   |   |   |   |   |   |   |   Hour > 21: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   Temperature > 33.87: VeryGood (2.0)
+|   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   Location = Tak: Moderate (24.0/9.0)
+|   |   |   Relative Humidity > 97.1
+|   |   |   |   Relative Humidity <= 98.75: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   Relative Humidity > 98.75: Unhealthy (8.0)
+|   Month = October
+|   |   Air Pressure <= 1012.78
+|   |   |   Relative Humidity <= 44.29
+|   |   |   |   Location = Pathumthani
+|   |   |   |   |   Temperature <= 38.57: Unhealthy (18.0/5.0)
+|   |   |   |   |   Temperature > 38.57
+|   |   |   |   |   |   Air Pressure <= 1009.4: Moderate (2.0)
+|   |   |   |   |   |   Air Pressure > 1009.4: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   Location = ChiangRai: Unhealthy (0.0)
+|   |   |   |   Location = Tak: Moderate (6.0/1.0)
+|   |   |   Relative Humidity > 44.29
+|   |   |   |   Temperature <= 35.51
+|   |   |   |   |   Relative Humidity <= 56.03
+|   |   |   |   |   |   Hour <= 17
+|   |   |   |   |   |   |   Hour <= 5: Unhealthy (3.0)
+|   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   Temperature <= 33.32
+|   |   |   |   |   |   |   |   |   Temperature <= 31.32: UnhealthyForSensitive (10.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.32
+|   |   |   |   |   |   |   |   |   |   Hour <= 15
+|   |   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.91: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.91
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 998.43: UnhealthyForSensitive (14.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 998.43
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.26: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.26: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Location = ChiangRai: UnhealthyForSensitive (0.0)
+|   |   |   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 51.44
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 50.45: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 50.45: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 11
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 996.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.03: UnhealthyForSensitive (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.03
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 48.83: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 48.83: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 996.5: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 51.44: Moderate (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 15
+|   |   |   |   |   |   |   |   |   |   |   Location = Pathumthani: Moderate (11.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 16: Moderate (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 16
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 997.23: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 997.23: Moderate (2.0)
+|   |   |   |   |   |   |   |   Temperature > 33.32
+|   |   |   |   |   |   |   |   |   Temperature <= 35.11
+|   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 983.62: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 983.62: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 11
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.44: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.44: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.5: Moderate (22.0)
+|   |   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 996.72
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 995.26: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 995.26: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 996.72: Moderate (8.0)
+|   |   |   |   |   |   |   |   |   Temperature > 35.11
+|   |   |   |   |   |   |   |   |   |   Hour <= 14
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 52.51: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 52.51: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 14
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 50.66: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 50.66: VeryGood (3.0)
+|   |   |   |   |   |   Hour > 17
+|   |   |   |   |   |   |   Relative Humidity <= 55.23
+|   |   |   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 51.84: Unhealthy (12.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 51.84
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1009.93: UnhealthyForSensitive (26.0/9.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1009.93: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   |   Air Pressure <= 998.98
+|   |   |   |   |   |   |   |   |   |   Temperature <= 30.66: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 30.66
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 53.57: Unhealthy (8.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 53.57
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.04: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.04: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 998.98
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1006.13: UnhealthyForSensitive (11.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1006.13: Unhealthy (2.0)
+|   |   |   |   |   |   |   Relative Humidity > 55.23
+|   |   |   |   |   |   |   |   Hour <= 18: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   Hour <= 21
+|   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 999.69: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 999.69: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   |   Location = Tak: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   Hour > 21: UnhealthyForSensitive (2.0)
+|   |   |   |   |   Relative Humidity > 56.03
+|   |   |   |   |   |   Hour <= 8
+|   |   |   |   |   |   |   Relative Humidity <= 66.18
+|   |   |   |   |   |   |   |   Air Pressure <= 1006.83
+|   |   |   |   |   |   |   |   |   Air Pressure <= 983.81
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 60.32: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 60.32: VeryGood (9.0/3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 983.81
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 61.76
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.74
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 29.35: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 29.35
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 5: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 5: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = ChiangRai: Unhealthy (0.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.4: Unhealthy (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.4: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 31.74: UnhealthyForSensitive (19.0/4.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 61.76
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 984.55: UnhealthyForSensitive (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 984.55: Moderate (76.0/27.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 4
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 64.84
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.5: UnhealthyForSensitive (26.0/6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.5: Moderate (3.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 64.84
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.21
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 998.14: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 998.14
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.05: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.05: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.21
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.41
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 998.98: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 998.98: UnhealthyForSensitive (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.41: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.39: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.39
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1000.36: Moderate (11.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1000.36: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 1006.83
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1010.56: VeryGood (13.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1010.56
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 63.56
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.77: UnhealthyForSensitive (6.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.77: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 63.56
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 1: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 1
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 65.3: Moderate (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 65.3: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 66.18
+|   |   |   |   |   |   |   |   Relative Humidity <= 75.38
+|   |   |   |   |   |   |   |   |   Temperature <= 32.19
+|   |   |   |   |   |   |   |   |   |   Temperature <= 29.92
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 74.56
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 980.59
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 68.63: VeryGood (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 68.63: Moderate (12.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 980.59: VeryGood (20.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 74.56: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 29.92
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 997.98
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.18: Moderate (29.0/8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.18
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 68.72: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 68.72: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 997.98
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 70.98
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.59: VeryGood (10.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.59
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.47
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1005.94: Moderate (35.0/17.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1005.94
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 68.84: VeryGood (14.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 68.84: Moderate (22.0/9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.47
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.13: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.13: Moderate (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 70.98
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1007.71
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Location = Pathumthani: Moderate (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Location = Tak: VeryGood (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.5: Moderate (26.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1007.71
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 72.09: Moderate (9.0/4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 72.09
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 74.77
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 73.07: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 73.07
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 74.03: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 74.03: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 74.77: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   Temperature > 32.19
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 70.65
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.9
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 6
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 1: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 1: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 6: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 32.9: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 70.65: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 75.38
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 80.31
+|   |   |   |   |   |   |   |   |   |   Hour <= 2
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 966.5: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 966.5: Unhealthy (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 2
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 79.4
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 4: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 4: Moderate (9.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 79.4: Moderate (2.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 80.31: UnhealthyForSensitive (10.0/1.0)
+|   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   Temperature <= 32.22
+|   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 62.89
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 983.88
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 21: VeryGood (8.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 21: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 983.88
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1004.96: Moderate (32.0/16.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1004.96: VeryGood (6.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 62.89
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 70.67
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 21: Moderate (44.0/6.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 21
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 999.71
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.59
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 908.19: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 908.19: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.59: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 999.71: Moderate (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 70.67
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.51
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 78.39
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 994.12
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 28.82
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 20: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 20
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 27.93: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 27.93: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 28.82
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 19: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 19: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 994.12
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1009.26: VeryGood (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1009.26: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 78.39: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 30.51
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1002.49
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 993.43: UnhealthyForSensitive (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 993.43: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1002.49
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1007.75: Moderate (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1007.75
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 74.08
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 21: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 21: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 74.08: UnhealthyForSensitive (7.0/1.0)
+|   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 69.07
+|   |   |   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 58.11
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.65
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.44: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.44: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.65: Moderate (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 58.11: Moderate (29.0/4.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 999.99
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 22: UnhealthyForSensitive (13.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 22
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.79: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.79: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 999.99: Moderate (9.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 69.07
+|   |   |   |   |   |   |   |   |   |   Hour <= 17: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 17
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 20: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 20
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1001.26: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1001.26: Moderate (3.0)
+|   |   |   |   |   |   |   Temperature > 32.22
+|   |   |   |   |   |   |   |   Relative Humidity <= 63.76
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1008.6
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1000.67
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 13
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 10
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 999.5: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 999.5
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 57.77: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 57.77: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Location = ChiangRai: UnhealthyForSensitive (0.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Location = Tak: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 10
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.81: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.81: Moderate (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 58.4: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 58.4: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 13
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 19: Moderate (18.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.48: UnhealthyForSensitive (6.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.48
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.76: Moderate (21.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.76
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 57.39: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 57.39: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1000.67: Moderate (40.0/3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1008.6
+|   |   |   |   |   |   |   |   |   |   Hour <= 20
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 12
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 58.76: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 58.76
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 34.31
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 9: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 9: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 34.31: Moderate (9.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 12
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 13: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 13
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 18: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 18
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.74: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.74: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 20
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.8: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 33.8: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 63.76: Moderate (56.0/22.0)
+|   |   |   |   Temperature > 35.51
+|   |   |   |   |   Air Pressure <= 1003.61: Moderate (47.0/7.0)
+|   |   |   |   |   Air Pressure > 1003.61
+|   |   |   |   |   |   Relative Humidity <= 55.73
+|   |   |   |   |   |   |   Air Pressure <= 1011.06
+|   |   |   |   |   |   |   |   Hour <= 16
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1009.38
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.01: VeryGood (32.0/7.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.01: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1009.38
+|   |   |   |   |   |   |   |   |   |   Hour <= 14
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 47.16
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 46.33: Moderate (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 46.33: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 47.16
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1009.85: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1009.85: VeryGood (3.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 14: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 16
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 52.83: VeryGood (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 52.83: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 1011.06
+|   |   |   |   |   |   |   |   Relative Humidity <= 50.31
+|   |   |   |   |   |   |   |   |   Hour <= 13: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   |   Hour > 13: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 50.31
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1011.89
+|   |   |   |   |   |   |   |   |   |   Hour <= 11: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 11: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1011.89: VeryGood (2.0)
+|   |   |   |   |   |   Relative Humidity > 55.73
+|   |   |   |   |   |   |   Relative Humidity <= 57.24: Moderate (12.0)
+|   |   |   |   |   |   |   Relative Humidity > 57.24
+|   |   |   |   |   |   |   |   Relative Humidity <= 57.42: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 57.42: Moderate (9.0/2.0)
+|   |   Air Pressure > 1012.78
+|   |   |   Relative Humidity <= 56.37
+|   |   |   |   Temperature <= 35.7: Unhealthy (31.0)
+|   |   |   |   Temperature > 35.7
+|   |   |   |   |   Relative Humidity <= 47.95: Unhealthy (4.0)
+|   |   |   |   |   Relative Humidity > 47.95: UnhealthyForSensitive (7.0/1.0)
+|   |   |   Relative Humidity > 56.37
+|   |   |   |   Hour <= 3
+|   |   |   |   |   Relative Humidity <= 71.47
+|   |   |   |   |   |   Temperature <= 32.45: Unhealthy (5.0)
+|   |   |   |   |   |   Temperature > 32.45: VeryGood (2.0)
+|   |   |   |   |   Relative Humidity > 71.47: VeryGood (2.0)
+|   |   |   |   Hour > 3
+|   |   |   |   |   Relative Humidity <= 71.37
+|   |   |   |   |   |   Temperature <= 32.29
+|   |   |   |   |   |   |   Relative Humidity <= 69.06: Unhealthy (7.0)
+|   |   |   |   |   |   |   Relative Humidity > 69.06
+|   |   |   |   |   |   |   |   Hour <= 6: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Hour > 6: Moderate (2.0)
+|   |   |   |   |   |   Temperature > 32.29
+|   |   |   |   |   |   |   Air Pressure <= 1014.99
+|   |   |   |   |   |   |   |   Hour <= 10
+|   |   |   |   |   |   |   |   |   Temperature <= 33.37: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 33.37: Moderate (10.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 10: UnhealthyForSensitive (11.0/5.0)
+|   |   |   |   |   |   |   Air Pressure > 1014.99: UnhealthyForSensitive (5.0)
+|   |   |   |   |   Relative Humidity > 71.37
+|   |   |   |   |   |   Temperature <= 30.81: VeryGood (6.0/1.0)
+|   |   |   |   |   |   Temperature > 30.81: Moderate (3.0)
+|   Month = November
+|   |   Temperature <= 30.37
+|   |   |   Relative Humidity <= 63.01
+|   |   |   |   Hour <= 11
+|   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   Temperature <= 28.35: Unhealthy (8.0)
+|   |   |   |   |   |   Temperature > 28.35
+|   |   |   |   |   |   |   Relative Humidity <= 57.76
+|   |   |   |   |   |   |   |   Hour <= 3
+|   |   |   |   |   |   |   |   |   Temperature <= 28.8: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   Temperature > 28.8
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 57.25
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1000.83
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 1
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 29.86: Unhealthy (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 29.86
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 52.71: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 52.71: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 1
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 999.51: UnhealthyForSensitive (12.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 999.51
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.53: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.53: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1000.83: UnhealthyForSensitive (9.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 57.25: Moderate (2.0)
+|   |   |   |   |   |   |   |   Hour > 3
+|   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   Temperature <= 29.61: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 29.61: Unhealthy (4.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: Unhealthy (0.0)
+|   |   |   |   |   |   |   |   |   Location = Tak: Unhealthy (3.0)
+|   |   |   |   |   |   |   Relative Humidity > 57.76
+|   |   |   |   |   |   |   |   Air Pressure <= 998.63
+|   |   |   |   |   |   |   |   |   Air Pressure <= 992.54
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 984.7: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 984.7: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 992.54: Moderate (5.0)
+|   |   |   |   |   |   |   |   Air Pressure > 998.63: UnhealthyForSensitive (13.0/2.0)
+|   |   |   |   |   Hour > 4
+|   |   |   |   |   |   Relative Humidity <= 45: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 45
+|   |   |   |   |   |   |   Relative Humidity <= 59.85: Unhealthy (64.0/6.0)
+|   |   |   |   |   |   |   Relative Humidity > 59.85
+|   |   |   |   |   |   |   |   Temperature <= 28.93: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Temperature > 28.93
+|   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   Temperature <= 29.84: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 29.84: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: Unhealthy (0.0)
+|   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   Temperature <= 30.14: Unhealthy (10.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 30.14: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   Hour > 11: UnhealthyForSensitive (49.0/14.0)
+|   |   |   Relative Humidity > 63.01
+|   |   |   |   Air Pressure <= 989.31: Moderate (17.0/2.0)
+|   |   |   |   Air Pressure > 989.31
+|   |   |   |   |   Hour <= 5
+|   |   |   |   |   |   Temperature <= 30.22
+|   |   |   |   |   |   |   Hour <= 4: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   Hour > 4: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   Temperature > 30.22: Unhealthy (3.0/1.0)
+|   |   |   |   |   Hour > 5
+|   |   |   |   |   |   Relative Humidity <= 66.38
+|   |   |   |   |   |   |   Hour <= 6
+|   |   |   |   |   |   |   |   Temperature <= 30.03: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   Temperature > 30.03: Unhealthy (2.0)
+|   |   |   |   |   |   |   Hour > 6: Unhealthy (2.0)
+|   |   |   |   |   |   Relative Humidity > 66.38: UnhealthyForSensitive (6.0)
+|   |   Temperature > 30.37
+|   |   |   Air Pressure <= 1008.25
+|   |   |   |   Temperature <= 32.89
+|   |   |   |   |   Relative Humidity <= 70.6
+|   |   |   |   |   |   Air Pressure <= 999.14
+|   |   |   |   |   |   |   Hour <= 4
+|   |   |   |   |   |   |   |   Relative Humidity <= 55.69: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 55.69
+|   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   Hour <= 0: Moderate (6.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 0
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.14
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 3: Moderate (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 3: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 31.14
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.61: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.61: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   Location = Tak: Moderate (30.0/5.0)
+|   |   |   |   |   |   |   Hour > 4
+|   |   |   |   |   |   |   |   Hour <= 6
+|   |   |   |   |   |   |   |   |   Air Pressure <= 991.23: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 991.23
+|   |   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.04: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 31.04: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Location = ChiangRai: UnhealthyForSensitive (0.0)
+|   |   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 63.82: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 63.82: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 6
+|   |   |   |   |   |   |   |   |   Location = Pathumthani: Moderate (97.0/50.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   Hour <= 17: Moderate (32.0/13.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 17
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.22: UnhealthyForSensitive (12.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.22: Moderate (17.0/3.0)
+|   |   |   |   |   |   Air Pressure > 999.14
+|   |   |   |   |   |   |   Air Pressure <= 1001.12
+|   |   |   |   |   |   |   |   Relative Humidity <= 52.17
+|   |   |   |   |   |   |   |   |   Temperature <= 31.26
+|   |   |   |   |   |   |   |   |   |   Hour <= 19: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 19: Unhealthy (3.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.26
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 51.68: UnhealthyForSensitive (16.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 51.68: Moderate (2.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 52.17
+|   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.19: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.19: UnhealthyForSensitive (40.0/14.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: UnhealthyForSensitive (0.0)
+|   |   |   |   |   |   |   |   |   Location = Tak: UnhealthyForSensitive (33.0/8.0)
+|   |   |   |   |   |   |   Air Pressure > 1001.12
+|   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   Temperature <= 31.01
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 51.99: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 51.99: Unhealthy (7.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.01: UnhealthyForSensitive (18.0/4.0)
+|   |   |   |   |   |   |   |   Location = ChiangRai: UnhealthyForSensitive (0.0)
+|   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   Hour <= 20
+|   |   |   |   |   |   |   |   |   |   Temperature <= 31.33
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 64.78: UnhealthyForSensitive (6.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 64.78: Moderate (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 31.33: Moderate (14.0/5.0)
+|   |   |   |   |   |   |   |   |   Hour > 20
+|   |   |   |   |   |   |   |   |   |   Temperature <= 31.33: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 31.33: Unhealthy (4.0)
+|   |   |   |   |   Relative Humidity > 70.6: Unhealthy (12.0/2.0)
+|   |   |   |   Temperature > 32.89
+|   |   |   |   |   Relative Humidity <= 38.07: Unhealthy (6.0/1.0)
+|   |   |   |   |   Relative Humidity > 38.07
+|   |   |   |   |   |   Hour <= 16
+|   |   |   |   |   |   |   Air Pressure <= 1000.68: Moderate (156.0/23.0)
+|   |   |   |   |   |   |   Air Pressure > 1000.68
+|   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 47.98: UnhealthyForSensitive (9.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 47.98
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.87: Moderate (19.0/2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.87: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1001.04: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1001.04: Moderate (7.0)
+|   |   |   |   |   |   Hour > 16
+|   |   |   |   |   |   |   Air Pressure <= 982.35
+|   |   |   |   |   |   |   |   Relative Humidity <= 55.87
+|   |   |   |   |   |   |   |   |   Air Pressure <= 981.24: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 981.24: VeryGood (3.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 55.87: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 982.35
+|   |   |   |   |   |   |   |   Temperature <= 33.84
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1000.84: Moderate (30.0/8.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1000.84
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 57.12: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 57.12: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   Temperature > 33.84
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 50.02: UnhealthyForSensitive (11.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 50.02
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 54.09: Moderate (5.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 54.09
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 35.16: UnhealthyForSensitive (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 35.16: Moderate (3.0/1.0)
+|   |   |   Air Pressure > 1008.25
+|   |   |   |   Relative Humidity <= 45.18: Unhealthy (31.0/10.0)
+|   |   |   |   Relative Humidity > 45.18
+|   |   |   |   |   Temperature <= 34.72
+|   |   |   |   |   |   Relative Humidity <= 56.69
+|   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   Relative Humidity <= 54.01
+|   |   |   |   |   |   |   |   |   Hour <= 12
+|   |   |   |   |   |   |   |   |   |   Temperature <= 34.28
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 51.09: Unhealthy (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 51.09
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.54: Unhealthy (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.54: Moderate (4.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 11: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 34.28: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   Hour > 12: UnhealthyForSensitive (20.0/11.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 54.01
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1011.8: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1011.8: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   Hour > 18: Unhealthy (13.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 56.69
+|   |   |   |   |   |   |   Relative Humidity <= 70.7
+|   |   |   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   |   |   Hour <= 9
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 1009.06
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 3: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 3: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 1009.06
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.14
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1010.44
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 59.93: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 59.93
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 68.24
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 62.29: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 62.29: VeryGood (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 68.24: Moderate (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1010.44: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 31.14
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 1
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1010.58: Unhealthy (8.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1010.58: Moderate (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 1
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 32.56: Moderate (33.0/6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 32.56
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 61.18: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 61.18
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 33.32: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 33.32: Unhealthy (5.0)
+|   |   |   |   |   |   |   |   |   Hour > 9: Moderate (27.0/4.0)
+|   |   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1010.28: Unhealthy (8.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1010.28
+|   |   |   |   |   |   |   |   |   |   Hour <= 21
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 34.19: Moderate (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 34.19: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 21
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 32: Moderate (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 32
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 1011.37: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 1011.37: Moderate (3.0/1.0)
+|   |   |   |   |   |   |   Relative Humidity > 70.7
+|   |   |   |   |   |   |   |   Temperature <= 31.16
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1009.63: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1009.63: Moderate (6.0/2.0)
+|   |   |   |   |   |   |   |   Temperature > 31.16
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1010.67: Unhealthy (18.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1010.67: Moderate (3.0)
+|   |   |   |   |   Temperature > 34.72
+|   |   |   |   |   |   Relative Humidity <= 56.46
+|   |   |   |   |   |   |   Relative Humidity <= 54.22
+|   |   |   |   |   |   |   |   Relative Humidity <= 47.73
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 46.53
+|   |   |   |   |   |   |   |   |   |   Temperature <= 36.78: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Temperature > 36.78: VeryGood (4.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 46.53
+|   |   |   |   |   |   |   |   |   |   Hour <= 12: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 12: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 47.73: Moderate (30.0/10.0)
+|   |   |   |   |   |   |   Relative Humidity > 54.22: UnhealthyForSensitive (5.0/2.0)
+|   |   |   |   |   |   Relative Humidity > 56.46
+|   |   |   |   |   |   |   Air Pressure <= 1010.71: UnhealthyForSensitive (7.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 1010.71
+|   |   |   |   |   |   |   |   Hour <= 10
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1011.86: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1011.86: Moderate (3.0)
+|   |   |   |   |   |   |   |   Hour > 10: Moderate (3.0)
+|   Month = December
+|   |   Hour <= 9
+|   |   |   Hour <= 4
+|   |   |   |   Air Pressure <= 1001.57
+|   |   |   |   |   Relative Humidity <= 58.73
+|   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   Hour <= 0
+|   |   |   |   |   |   |   |   Relative Humidity <= 56.62: Unhealthy (9.0/2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 56.62: Moderate (2.0)
+|   |   |   |   |   |   |   Hour > 0
+|   |   |   |   |   |   |   |   Air Pressure <= 999.48: Unhealthy (27.0/8.0)
+|   |   |   |   |   |   |   |   Air Pressure > 999.48: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   Location = ChiangRai: Unhealthy (0.0)
+|   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   Temperature <= 31.53
+|   |   |   |   |   |   |   |   Temperature <= 29.46
+|   |   |   |   |   |   |   |   |   Hour <= 2: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Hour > 2
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 56.34: Unhealthy (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 56.34
+|   |   |   |   |   |   |   |   |   |   |   Temperature <= 29.32: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Temperature > 29.32: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   Temperature > 29.46: Unhealthy (13.0/1.0)
+|   |   |   |   |   |   |   Temperature > 31.53: UnhealthyForSensitive (8.0/1.0)
+|   |   |   |   |   Relative Humidity > 58.73
+|   |   |   |   |   |   Hour <= 3
+|   |   |   |   |   |   |   Relative Humidity <= 65.41
+|   |   |   |   |   |   |   |   Temperature <= 30.53
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1001.12: Moderate (13.0/3.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1001.12: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   Temperature > 30.53
+|   |   |   |   |   |   |   |   |   Air Pressure <= 999.26: UnhealthyForSensitive (16.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 999.26: Moderate (3.0)
+|   |   |   |   |   |   |   Relative Humidity > 65.41: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   Hour > 3
+|   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   Relative Humidity <= 60.47
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 59.87: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 59.87: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 60.47: Moderate (5.0/2.0)
+|   |   |   |   |   |   |   Location = ChiangRai: UnhealthyForSensitive (0.0)
+|   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   Relative Humidity <= 61.72: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 61.72: UnhealthyForSensitive (2.0)
+|   |   |   |   Air Pressure > 1001.57
+|   |   |   |   |   Relative Humidity <= 53.89
+|   |   |   |   |   |   Air Pressure <= 1002.66: Unhealthy (2.0)
+|   |   |   |   |   |   Air Pressure > 1002.66: UnhealthyForSensitive (2.0/1.0)
+|   |   |   |   |   Relative Humidity > 53.89: Moderate (21.0/6.0)
+|   |   |   Hour > 4
+|   |   |   |   Relative Humidity <= 53.81
+|   |   |   |   |   Location = Pathumthani: Moderate (4.0)
+|   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   Location = Tak
+|   |   |   |   |   |   Air Pressure <= 1003.97: Moderate (4.0/2.0)
+|   |   |   |   |   |   Air Pressure > 1003.97: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   Relative Humidity > 53.81
+|   |   |   |   |   Hour <= 6
+|   |   |   |   |   |   Air Pressure <= 999.87
+|   |   |   |   |   |   |   Relative Humidity <= 63.03: Unhealthy (34.0)
+|   |   |   |   |   |   |   Relative Humidity > 63.03
+|   |   |   |   |   |   |   |   Relative Humidity <= 64.97: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 64.97: Unhealthy (3.0)
+|   |   |   |   |   |   Air Pressure > 999.87
+|   |   |   |   |   |   |   Temperature <= 28.73: Unhealthy (7.0)
+|   |   |   |   |   |   |   Temperature > 28.73
+|   |   |   |   |   |   |   |   Hour <= 5
+|   |   |   |   |   |   |   |   |   Temperature <= 29.16: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Temperature > 29.16: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   Hour > 5
+|   |   |   |   |   |   |   |   |   Air Pressure <= 1001.49: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 1001.49: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   Hour > 6
+|   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   Hour <= 8: Unhealthy (33.0/3.0)
+|   |   |   |   |   |   |   Hour > 8
+|   |   |   |   |   |   |   |   Relative Humidity <= 58.52: Unhealthy (8.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 58.52: UnhealthyForSensitive (4.0)
+|   |   |   |   |   |   Location = ChiangRai: Unhealthy (0.0)
+|   |   |   |   |   |   Location = Tak: Unhealthy (36.0/7.0)
+|   |   Hour > 9
+|   |   |   Hour <= 17
+|   |   |   |   Air Pressure <= 1002.93
+|   |   |   |   |   Hour <= 11
+|   |   |   |   |   |   Hour <= 10
+|   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   Relative Humidity <= 55.89
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 51.69: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 51.69: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 55.89: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   Location = ChiangRai: Unhealthy (0.0)
+|   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   Relative Humidity <= 55.14
+|   |   |   |   |   |   |   |   |   Temperature <= 32.17
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 50.78: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 50.78: Unhealthy (8.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 32.17: Moderate (2.0/1.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 55.14: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   Hour > 10
+|   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   Temperature <= 32.38
+|   |   |   |   |   |   |   |   |   Relative Humidity <= 47.13: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Relative Humidity > 47.13: Moderate (3.0)
+|   |   |   |   |   |   |   |   Temperature > 32.38
+|   |   |   |   |   |   |   |   |   Air Pressure <= 999.86: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 999.86: Unhealthy (4.0/1.0)
+|   |   |   |   |   |   |   Location = ChiangRai: UnhealthyForSensitive (0.0)
+|   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   Air Pressure <= 998.27: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   Air Pressure > 998.27: UnhealthyForSensitive (9.0/3.0)
+|   |   |   |   |   Hour > 11
+|   |   |   |   |   |   Relative Humidity <= 50.82
+|   |   |   |   |   |   |   Air Pressure <= 999.54
+|   |   |   |   |   |   |   |   Temperature <= 36.63
+|   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   Hour <= 12: UnhealthyForSensitive (7.0/4.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 12
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 16
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 998.07: Moderate (38.0/12.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Air Pressure > 998.07: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 16
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 34.63: UnhealthyForSensitive (7.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 34.63: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 997.51
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 15: Unhealthy (22.0/9.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 15
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 43.38
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour <= 16: Moderate (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Hour > 16
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 41.08: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 41.08: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 43.38: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 997.51: Moderate (14.0/6.0)
+|   |   |   |   |   |   |   |   Temperature > 36.63: Moderate (9.0)
+|   |   |   |   |   |   |   Air Pressure > 999.54: Moderate (36.0/4.0)
+|   |   |   |   |   |   Relative Humidity > 50.82
+|   |   |   |   |   |   |   Relative Humidity <= 58.71
+|   |   |   |   |   |   |   |   Relative Humidity <= 52.16
+|   |   |   |   |   |   |   |   |   Temperature <= 31.75: VeryGood (8.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 31.75: Moderate (6.0/2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 52.16: Moderate (12.0)
+|   |   |   |   |   |   |   Relative Humidity > 58.71
+|   |   |   |   |   |   |   |   Hour <= 14: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   Hour > 14: Unhealthy (3.0)
+|   |   |   |   Air Pressure > 1002.93: Moderate (16.0)
+|   |   |   Hour > 17
+|   |   |   |   Air Pressure <= 1001.16
+|   |   |   |   |   Temperature <= 32.42
+|   |   |   |   |   |   Temperature <= 28.44
+|   |   |   |   |   |   |   Hour <= 19: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   Hour > 19: Unhealthy (8.0)
+|   |   |   |   |   |   Temperature > 28.44
+|   |   |   |   |   |   |   Air Pressure <= 986.17
+|   |   |   |   |   |   |   |   Relative Humidity <= 55.09
+|   |   |   |   |   |   |   |   |   Temperature <= 30.59
+|   |   |   |   |   |   |   |   |   |   Hour <= 20: Moderate (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 20: Unhealthy (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Temperature > 30.59: Unhealthy (14.0/3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 55.09: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   Air Pressure > 986.17
+|   |   |   |   |   |   |   |   Relative Humidity <= 61.84
+|   |   |   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   |   |   Air Pressure <= 999.22
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 19
+|   |   |   |   |   |   |   |   |   |   |   |   Hour <= 18
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 47.39: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 47.39: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Hour > 18: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 19
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 50.11
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 30.11: Moderate (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 30.11: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 50.11: UnhealthyForSensitive (11.0/5.0)
+|   |   |   |   |   |   |   |   |   |   Air Pressure > 999.22
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 56.99: Moderate (10.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 56.99: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   |   |   Hour <= 20
+|   |   |   |   |   |   |   |   |   |   |   Hour <= 18: UnhealthyForSensitive (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   Hour > 18: Moderate (12.0/4.0)
+|   |   |   |   |   |   |   |   |   |   Hour > 20
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure <= 993.65
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 29.25: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Temperature > 29.25: Moderate (7.0)
+|   |   |   |   |   |   |   |   |   |   |   Air Pressure > 993.65
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 57.28
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 51.95: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 51.95
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 55.04: Unhealthy (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 55.04
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature <= 31.22: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   Temperature > 31.22: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 57.28: Moderate (3.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 61.84: Unhealthy (5.0/1.0)
+|   |   |   |   |   Temperature > 32.42
+|   |   |   |   |   |   Relative Humidity <= 53.73
+|   |   |   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   |   |   Relative Humidity <= 51.34
+|   |   |   |   |   |   |   |   |   Air Pressure <= 998.1: Unhealthy (6.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 998.1
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 50.25: UnhealthyForSensitive (4.0/1.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 50.25: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 51.34: UnhealthyForSensitive (5.0)
+|   |   |   |   |   |   |   Location = ChiangRai: Unhealthy (0.0)
+|   |   |   |   |   |   |   Location = Tak
+|   |   |   |   |   |   |   |   Air Pressure <= 999.31
+|   |   |   |   |   |   |   |   |   Air Pressure <= 998.38
+|   |   |   |   |   |   |   |   |   |   Relative Humidity <= 46.82: UnhealthyForSensitive (3.0)
+|   |   |   |   |   |   |   |   |   |   Relative Humidity > 46.82
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity <= 48.06: Unhealthy (2.0)
+|   |   |   |   |   |   |   |   |   |   |   Relative Humidity > 48.06: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   |   |   Air Pressure > 998.38: Unhealthy (5.0)
+|   |   |   |   |   |   |   |   Air Pressure > 999.31: Moderate (3.0/1.0)
+|   |   |   |   |   |   Relative Humidity > 53.73: UnhealthyForSensitive (8.0/1.0)
+|   |   |   |   Air Pressure > 1001.16
+|   |   |   |   |   Location = Pathumthani
+|   |   |   |   |   |   Hour <= 22
+|   |   |   |   |   |   |   Air Pressure <= 1002.79: UnhealthyForSensitive (5.0/1.0)
+|   |   |   |   |   |   |   Air Pressure > 1002.79
+|   |   |   |   |   |   |   |   Relative Humidity <= 51.39: Moderate (5.0)
+|   |   |   |   |   |   |   |   Relative Humidity > 51.39: UnhealthyForSensitive (3.0/1.0)
+|   |   |   |   |   |   Hour > 22: Moderate (2.0)
+|   |   |   |   |   Location = ChiangRai: Moderate (0.0)
+|   |   |   |   |   Location = Tak
+|   |   |   |   |   |   Hour <= 21
+|   |   |   |   |   |   |   Relative Humidity <= 51.42: UnhealthyForSensitive (2.0)
+|   |   |   |   |   |   |   Relative Humidity > 51.42: Moderate (7.0/1.0)
+|   |   |   |   |   |   Hour > 21: UnhealthyForSensitive (4.0)
